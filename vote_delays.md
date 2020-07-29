@@ -31,6 +31,18 @@ analysis is based off of the state’s data itself, and if you need a
 script for parsing the xlsx files, I’m happy to share one. I’ve set this
 notebook up to work off of the public data (for the most part).
 
+The data made available there gives precinct-by-precinct data on
+check-ins per hour for the large majority of voting precincts in Georgia
+during the 2020 primary election.
+
+The data we’re using comes from the Secretary of State’s office and is
+largely the same as GPB’s data. Our data, however, gives only the first
+and last check-in time for each precinct in the state. Additionally, the
+SoS’s office gave guidance on when precincts should open and
+close–rating certain opening and closing delays as acceptable, and
+categorizing delays past that point as “Orange,”Yellow," “Red,” and
+“Black” (the black category was only given to opening delays).
+
 One thing you’ll see in the data is that I’m lugging around two copies
 of every dataframe. That’s because I wanted to account for geography
 when estimating the effect of race on delay. To do that, I re-used the
@@ -84,7 +96,7 @@ for(i in 1:nrow(D_vote_time_f)){
 ```
 
 This is where the dataframes diverge. In general, if it has an m at the
-end, it’s the data frame for the model. This looks like a lot of code,
+end, it’s the dataframe for the model. This looks like a lot of code,
 but it’s mostly data shaping and calculating simple functions of the
 data, like converting the number of Black residents in a precinct into
 the percentage of a precinct’s population that is Black.
@@ -593,13 +605,15 @@ D_five_poly %>% ggplot()+ geom_sf(aes(color = black_perc, fill = black_perc))+
 ![](vote_delays_files/figure-gfm/unnamed-chunk-11-1.png)<!-- --> The
 plot shows a clear racial pattern. Whiter areas had fewer delays. Most
 of the three hour delay precincts are in majority Black precincts. Also,
-Fulton did a very bad job.
+Fulton had a lot of late closing precincts.
 
 Next, here’s the plot of closing delay against turnout, where we split
 it up by race. It’s a very clear depiction of the racial disparity we
 saw earlier. Majority Black precincts saw longer waits at all turnout
 levels, but, while majority white precincts experienced economy of
-scale, majority Black precincts absolutely did not.
+scale, majority Black precincts absolutely did not. The curve fitting
+that shows the trend line by race is done by a simple GAM of Minutes
+closed late ~ Turnout.
 
 ``` r
 D_tracts_acs_f %>% filter(close_late>-250, is.na(race_flag)==FALSE) %>% 
@@ -615,12 +629,12 @@ D_tracts_acs_f %>% filter(close_late>-250, is.na(race_flag)==FALSE) %>%
 ![](vote_delays_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
 
 Having seen this, we should return to something we noted in the previous
-chart: the terrible performance of Fulton County. Fulton did so much
-worse than just about every county in the state that it’s worth asking
-whether Fulton’s underperformace could be driving the high-level racial
+chart: the performance of Fulton County. Fulton had such a large
+percentage of late closing precincts that it’s worth asking whether
+Fulton’s underperformace could be driving the high-level racial
 disparities we noted.
 
-We can check that in two ways. One by removing Fulton County and
+We can check that in two ways. One is by removing Fulton County and
 reproducing the scatterplot we just looked
 at:
 
@@ -678,7 +692,6 @@ summary(mod_gam_time_last)
 Both of those show that while Fulton’s long delays were, on average,
 sufficiently worse than the rest of the state so as to drag the overall
 estimates of racial disparity upwards, the estimates remain largely the
-same due to failures elsewhere. Fulton is a very predictable county, so
-the quality of the prediction decreases, which makes me think the
-variance is greater in other parts of the state, but the estimates stay
-roughly the same.
+same due to failures elsewhere. Fulton is a very (statistically)
+predictable county, so the quality of the prediction decreases, but the
+estimates stay roughly the same.
