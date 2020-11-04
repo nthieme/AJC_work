@@ -1,0 +1,1805 @@
+Date,Area,District,Volume_inb_ball,Score_inb_ball,Score_p_1_inb_ball,Score_p_2_inb_ball,Score_p_3_inb_ball,type
+2020-10-24,Metro,Atlanta,17330,84.89,95.35,98.71,98.92,inbound
+2020-10-24,Metro,Baltimore,10410,84.21,89.82,93.51,95.63,inbound
+2020-10-24,Metro,Capital,14952,92.98,97.24,98.2,98.44,inbound
+2020-10-24,Metro,Greater S Carolina,11936,92.25,97.52,98.93,99.07,inbound
+2020-10-24,Metro,Greensboro,15761,83.6,89.68,96.57,96.77,inbound
+2020-10-24,Metro,Mid-Carolinas,11164,90.56,96.01,97.65,97.81,inbound
+2020-10-24,Metro,Norther Virginia,11774,91.55,95.32,96.81,96.98,inbound
+2020-10-24,Metro,Richmond,9994,92.46,97.16,98.67,98.74,inbound
+2020-10-24,Eastern,Appalachian,1932,58.85,62.47,63.41,63.82,inbound
+2020-10-24,Eastern,Central Pennsylvania,28344,78.46,90.5,98.91,99.36,inbound
+2020-10-24,Eastern,Kentuckiana,734,37.6,49.86,52.86,53.95,inbound
+2020-10-24,Eastern,Norther Ohio,35407,91.84,98.73,99.44,99.47,inbound
+2020-10-24,Eastern,Ohio Valley,25323,95.08,98.68,99.36,99.4,inbound
+2020-10-24,Eastern,Philadelphia Metropo,18137,91.55,95.09,98.9,99.13,inbound
+2020-10-24,Eastern,South Jersey,21338,95.54,97.48,98.22,98.7,inbound
+2020-10-24,Eastern,Tennessee,3207,88.74,96.41,98.66,98.66,inbound
+2020-10-24,Eastern,Western New York,10333,96.2,98.29,99.27,99.27,inbound
+2020-10-24,Eastern,Western Pennsylvania,34031,98.08,99.17,99.72,99.73,inbound
+2020-10-24,Great Lakes,Central Illinois,17965,89.89,94.03,96.85,98.99,inbound
+2020-10-24,Great Lakes,Chicago,11581,90.71,91.97,92.56,95.81,inbound
+2020-10-24,Great Lakes,Detroit,5811,74.05,92.63,97.37,98.14,inbound
+2020-10-24,Great Lakes,Gateway,9036,93.46,97.08,98.05,98.15,inbound
+2020-10-24,Great Lakes,Greater Indiana,946,72.41,91.75,98.63,98.63,inbound
+2020-10-24,Great Lakes,Greater Michigan,6128,91.66,96.88,97.99,98.01,inbound
+2020-10-24,Great Lakes,Lakeland,1883,81.73,93.73,95.65,95.91,inbound
+2020-10-24,Northeast,Albany,9972,95.19,98.44,99.22,99.27,inbound
+2020-10-24,Northeast,Caribbean,9670,99.63,99.89,99.92,99.92,inbound
+2020-10-24,Northeast,Connecticut Valley,12229,95.55,97.74,98.63,98.8,inbound
+2020-10-24,Northeast,Greater Boston,40938,96.03,98.45,99.02,99.04,inbound
+2020-10-24,Northeast,Long Island,14887,96.61,98.34,98.81,98.86,inbound
+2020-10-24,Northeast,New York,7336,91.15,95.16,99.17,99.43,inbound
+2020-10-24,Northeast,Northern New England,1472,76.56,94.16,99.18,99.18,inbound
+2020-10-24,Northeast,Northern New Jersey,30568,96.5,97.68,98.05,98.11,inbound
+2020-10-24,Northeast,Triboro,5767,83.09,85.76,86.58,86.68,inbound
+2020-10-24,Northeast,Westchester,8540,92.76,95.94,97.31,97.45,inbound
+2020-10-24,Pacific,Bay-Valley,58733,98.43,99.12,99.29,99.31,inbound
+2020-10-24,Pacific,Honolulu,26641,97.22,98.96,99.17,99.25,inbound
+2020-10-24,Pacific,Los Angeles,55431,98.59,99.16,99.38,99.38,inbound
+2020-10-24,Pacific,Sacramento,58967,96.75,99.28,99.35,99.37,inbound
+2020-10-24,Pacific,San Diego,90880,98.85,99.49,99.66,99.66,inbound
+2020-10-24,Pacific,San Francisco,36290,98.32,99.17,99.45,99.47,inbound
+2020-10-24,Pacific,Santa Ana,45991,99.02,99.61,99.75,99.76,inbound
+2020-10-24,Pacific,Sierra Coastal,32415,98.49,99.35,99.58,99.59,inbound
+2020-10-24,Southern,Alabama,620,65.65,92.26,96.61,96.61,inbound
+2020-10-24,Southern,Arkansas,761,91.46,96.32,98.55,98.55,inbound
+2020-10-24,Southern,Dallas,3105,94.59,97.81,98.58,98.65,inbound
+2020-10-24,Southern,Ft. Worth,1887,90.04,94.7,96.08,96.13,inbound
+2020-10-24,Southern,Gulf Atlantic,18641,90.81,96.31,98.68,98.78,inbound
+2020-10-24,Southern,Houston,2696,84.64,89.5,91.58,91.73,inbound
+2020-10-24,Southern,Louisiana,561,77.18,90.73,98.04,98.04,inbound
+2020-10-24,Southern,Mississippi,469,85.5,95.1,98.51,98.51,inbound
+2020-10-24,Southern,Oklahoma,385,75.32,91.69,97.4,97.4,inbound
+2020-10-24,Southern,Rio Grande,3433,91.09,95.22,98.11,98.11,inbound
+2020-10-24,Southern,South Florida,9778,92.91,96.32,98.65,98.66,inbound
+2020-10-24,Southern,Suncoast,47876,96.63,98.55,99.25,99.26,inbound
+2020-10-24,Western,Alaska,4101,79.59,88.03,89.32,89.61,inbound
+2020-10-24,Western,Arizona,121164,97.56,99.35,99.48,99.53,inbound
+2020-10-24,Western,Central Plains,7267,96.72,98.53,99.04,99.04,inbound
+2020-10-24,Western,Colorado/Wyoming,20592,69.94,89.58,91.89,91.97,inbound
+2020-10-24,Western,Dakotas,10696,96.23,99.09,99.7,99.7,inbound
+2020-10-24,Western,Hawkeye,13338,95.25,98.03,98.49,98.53,inbound
+2020-10-24,Western,Mid-Americas,8549,93.81,97.58,99.33,99.49,inbound
+2020-10-24,Western,Nevada Sierra,24281,97.86,99.44,99.67,99.7,inbound
+2020-10-24,Western,Northland,6158,97.3,99.4,99.71,99.71,inbound
+2020-10-24,Western,Portland,98843,92.49,99.09,99.37,99.4,inbound
+2020-10-24,Western,Salt Lake City,39858,98.78,99.54,99.75,99.81,inbound
+2020-10-24,Western,Seattle,97905,97.75,99.07,99.36,99.42,inbound
+2020-10-26,Metro,Atlanta,18005,89.44,94.66,97.46,98.51,inbound
+2020-10-26,Metro,Baltimore,18531,91.27,95.61,97.91,99,inbound
+2020-10-26,Metro,Capital,14799,93.21,97.13,98.89,99.24,inbound
+2020-10-26,Metro,Greater S Carolina,12565,87.1,93.55,96.93,98.3,inbound
+2020-10-26,Metro,Greensboro,17827,82.71,94.01,96.31,97.02,inbound
+2020-10-26,Metro,Mid-Carolinas,11441,86.12,93.56,95.01,95.58,inbound
+2020-10-26,Metro,Norther Virginia,19824,93.5,97.23,97.78,98.12,inbound
+2020-10-26,Metro,Richmond,15749,91.18,96.08,97.58,98.21,inbound
+2020-10-26,Eastern,Appalachian,3070,74.89,81.3,82.31,82.67,inbound
+2020-10-26,Eastern,Central Pennsylvania,53225,78.76,92.1,99.3,99.49,inbound
+2020-10-26,Eastern,Kentuckiana,914,64.55,71.99,74.4,76.59,inbound
+2020-10-26,Eastern,Norther Ohio,45561,92.64,97.97,98.62,98.86,inbound
+2020-10-26,Eastern,Ohio Valley,30988,94.8,98.56,99.12,99.41,inbound
+2020-10-26,Eastern,Philadelphia Metropo,48371,93.03,95.8,97.39,97.78,inbound
+2020-10-26,Eastern,South Jersey,17535,90.88,94.47,95.73,96.37,inbound
+2020-10-26,Eastern,Tennessee,8691,92.82,97.25,98.6,98.92,inbound
+2020-10-26,Eastern,Western New York,15455,96.6,98.65,99.06,99.18,inbound
+2020-10-26,Eastern,Western Pennsylvania,41674,97.26,98.87,99.33,99.43,inbound
+2020-10-26,Great Lakes,Central Illinois,28945,94.36,97.62,98.45,98.77,inbound
+2020-10-26,Great Lakes,Chicago,20128,87.63,93.06,94.26,94.81,inbound
+2020-10-26,Great Lakes,Detroit,12486,73.6,93.01,96.82,98.06,inbound
+2020-10-26,Great Lakes,Gateway,14960,93.18,95.74,96.97,97.25,inbound
+2020-10-26,Great Lakes,Greater Indiana,3008,79.72,93.85,96.71,98.74,inbound
+2020-10-26,Great Lakes,Greater Michigan,14148,87.29,96.85,98.32,98.54,inbound
+2020-10-26,Great Lakes,Lakeland,3359,87.44,93.24,95.86,98.21,inbound
+2020-10-26,Northeast,Albany,22560,96.32,98.7,99.26,99.43,inbound
+2020-10-26,Northeast,Caribbean,4885,98.67,99.65,99.77,99.82,inbound
+2020-10-26,Northeast,Connecticut Valley,30949,94.79,96.83,97.34,97.72,inbound
+2020-10-26,Northeast,Greater Boston,74158,96.96,98.66,98.96,99.17,inbound
+2020-10-26,Northeast,Long Island,19994,96.02,97.68,98.02,98.24,inbound
+2020-10-26,Northeast,New York,50926,96.49,98.33,98.91,99.05,inbound
+2020-10-26,Northeast,Northern New England,2476,84.41,92.89,96.81,99.23,inbound
+2020-10-26,Northeast,Northern New Jersey,30033,96.76,98.05,98.32,98.46,inbound
+2020-10-26,Northeast,Triboro,14115,89.13,91.12,91.85,92.04,inbound
+2020-10-26,Northeast,Westchester,14707,94.53,97.42,97.89,98.09,inbound
+2020-10-26,Pacific,Bay-Valley,49831,96.85,98.04,98.28,98.39,inbound
+2020-10-26,Pacific,Honolulu,23767,94.72,97.46,97.84,97.88,inbound
+2020-10-26,Pacific,Los Angeles,42125,96.39,97.45,97.98,98.22,inbound
+2020-10-26,Pacific,Sacramento,46644,97.07,97.92,98.09,98.14,inbound
+2020-10-26,Pacific,San Diego,75559,98.07,99.29,99.57,99.64,inbound
+2020-10-26,Pacific,San Francisco,36399,97.83,98.83,99.05,99.13,inbound
+2020-10-26,Pacific,Santa Ana,35113,97.65,99.01,99.36,99.46,inbound
+2020-10-26,Pacific,Sierra Coastal,34953,97.96,98.64,98.87,98.99,inbound
+2020-10-26,Southern,Alabama,1302,74.19,92.63,97.24,98.16,inbound
+2020-10-26,Southern,Arkansas,1292,91.95,97.21,98.45,99.61,inbound
+2020-10-26,Southern,Dallas,3465,91.98,97,98.44,98.67,inbound
+2020-10-26,Southern,Ft. Worth,2262,88.68,92,93.1,93.28,inbound
+2020-10-26,Southern,Gulf Atlantic,17639,85.83,94.26,96.49,97.27,inbound
+2020-10-26,Southern,Houston,10599,90.23,95.71,96.81,97.29,inbound
+2020-10-26,Southern,Louisiana,1217,74.03,88.17,94.91,97.29,inbound
+2020-10-26,Southern,Mississippi,679,73.93,86.89,95.29,98.09,inbound
+2020-10-26,Southern,Oklahoma,761,77.92,91.59,95.8,98.29,inbound
+2020-10-26,Southern,Rio Grande,4308,87.74,94.27,96.49,98.58,inbound
+2020-10-26,Southern,South Florida,7053,90.4,96.21,98.03,98.67,inbound
+2020-10-26,Southern,Suncoast,45685,94.38,96.93,97.78,98.24,inbound
+2020-10-26,Western,Alaska,4347,82.54,89.9,92.48,92.71,inbound
+2020-10-26,Western,Arizona,95042,97.9,99.1,99.47,99.62,inbound
+2020-10-26,Western,Central Plains,9837,90.81,93.16,94.4,94.67,inbound
+2020-10-26,Western,Colorado/Wyoming,31817,61.45,78.91,84.32,86.41,inbound
+2020-10-26,Western,Dakotas,10329,94.98,97.88,98.65,98.96,inbound
+2020-10-26,Western,Hawkeye,28066,97.57,98.63,99.05,99.14,inbound
+2020-10-26,Western,Mid-Americas,10582,86.68,97.51,98.67,99.08,inbound
+2020-10-26,Western,Nevada Sierra,19331,87.15,89.31,89.8,89.98,inbound
+2020-10-26,Western,Northland,5418,92.23,97.29,98.27,99.04,inbound
+2020-10-26,Western,Portland,83842,97.24,98.49,99.04,99.23,inbound
+2020-10-26,Western,Salt Lake City,36892,97.83,99.15,99.42,99.76,inbound
+2020-10-26,Western,Seattle,80239,96.26,98.18,98.69,98.88,inbound
+2020-10-27,Metro,Atlanta,10340,39.68,97.79,98.72,99.2,inbound
+2020-10-27,Metro,Baltimore,6906,85.04,96.41,97.81,99.06,inbound
+2020-10-27,Metro,Capital,15659,88.95,98.72,99,99.36,inbound
+2020-10-27,Metro,Greater S Carolina,12358,79.98,97.97,98.8,99.26,inbound
+2020-10-27,Metro,Greensboro,15839,75.5,93.79,95.69,98.32,inbound
+2020-10-27,Metro,Mid-Carolinas,13457,70.49,95.04,95.89,96.16,inbound
+2020-10-27,Metro,Norther Virginia,2476,60.74,89.58,91.48,92.53,inbound
+2020-10-27,Metro,Richmond,7021,82.57,97.31,98.09,98.59,inbound
+2020-10-27,Eastern,Appalachian,1007,49.45,81.43,86.89,89.77,inbound
+2020-10-27,Eastern,Central Pennsylvania,15337,56.16,95.72,97.88,99.2,inbound
+2020-10-27,Eastern,Kentuckiana,367,55.59,82.56,86.65,87.74,inbound
+2020-10-27,Eastern,Norther Ohio,34974,91.43,98.95,99.3,99.35,inbound
+2020-10-27,Eastern,Ohio Valley,29215,94.81,98.14,99.61,99.68,inbound
+2020-10-27,Eastern,Philadelphia Metropo,29503,96.06,98.66,99.18,99.65,inbound
+2020-10-27,Eastern,South Jersey,29801,96.71,99.12,99.24,99.35,inbound
+2020-10-27,Eastern,Tennessee,6287,91.97,98.66,99.2,99.55,inbound
+2020-10-27,Eastern,Western New York,17060,98.19,99.51,99.6,99.63,inbound
+2020-10-27,Eastern,Western Pennsylvania,43583,97.25,99.58,99.67,99.89,inbound
+2020-10-27,Great Lakes,Central Illinois,18769,85.02,93.71,96.76,99.23,inbound
+2020-10-27,Great Lakes,Chicago,15529,90.04,92.99,93.41,93.59,inbound
+2020-10-27,Great Lakes,Detroit,4987,48.63,93.48,97.33,98.03,inbound
+2020-10-27,Great Lakes,Gateway,2595,80,95.22,96.69,97.38,inbound
+2020-10-27,Great Lakes,Greater Indiana,903,40.64,91.03,94.8,98.34,inbound
+2020-10-27,Great Lakes,Greater Michigan,3785,55.01,96.46,97.99,98.65,inbound
+2020-10-27,Great Lakes,Lakeland,729,52.54,79.97,83.13,85.46,inbound
+2020-10-27,Northeast,Albany,3825,82.33,97.8,98.25,98.51,inbound
+2020-10-27,Northeast,Caribbean,10197,99.57,99.87,99.93,99.97,inbound
+2020-10-27,Northeast,Connecticut Valley,2061,75.25,94.03,95.88,96.51,inbound
+2020-10-27,Northeast,Greater Boston,24869,93.7,99.28,99.55,99.63,inbound
+2020-10-27,Northeast,Long Island,14681,97.16,98.53,98.67,98.73,inbound
+2020-10-27,Northeast,New York,25905,94.94,98.89,99.24,99.34,inbound
+2020-10-27,Northeast,Northern New England,525,54.29,91.81,95.05,97.33,inbound
+2020-10-27,Northeast,Northern New Jersey,45985,97.51,99.37,99.42,99.49,inbound
+2020-10-27,Northeast,Triboro,14824,95.52,96.51,96.63,96.64,inbound
+2020-10-27,Northeast,Westchester,2090,70.43,93.64,94.26,94.31,inbound
+2020-10-27,Pacific,Bay-Valley,102048,99.08,99.6,99.64,99.64,inbound
+2020-10-27,Pacific,Honolulu,29231,96.43,99.67,99.79,99.84,inbound
+2020-10-27,Pacific,Los Angeles,83720,99.22,99.61,99.67,99.7,inbound
+2020-10-27,Pacific,Sacramento,84978,97.93,98.92,98.94,98.98,inbound
+2020-10-27,Pacific,San Diego,156005,99.13,99.82,99.9,99.92,inbound
+2020-10-27,Pacific,San Francisco,68141,99.33,99.72,99.77,99.79,inbound
+2020-10-27,Pacific,Santa Ana,65500,99.14,99.7,99.75,99.76,inbound
+2020-10-27,Pacific,Sierra Coastal,54310,98.72,99.43,99.46,99.49,inbound
+2020-10-27,Southern,Alabama,529,50.85,89.79,95.46,97.35,inbound
+2020-10-27,Southern,Arkansas,259,66.02,92.28,94.98,95.37,inbound
+2020-10-27,Southern,Dallas,2032,85.19,97.19,98.38,99.02,inbound
+2020-10-27,Southern,Ft. Worth,716,73.74,89.25,91.2,92.46,inbound
+2020-10-27,Southern,Gulf Atlantic,16084,84.8,97.86,98.76,99.14,inbound
+2020-10-27,Southern,Houston,1637,74.95,91.02,92.06,93.4,inbound
+2020-10-27,Southern,Louisiana,462,63.42,93.29,95.45,97.19,inbound
+2020-10-27,Southern,Mississippi,648,83.95,98.15,98.46,99.07,inbound
+2020-10-27,Southern,Oklahoma,353,60.34,87.82,91.78,98.3,inbound
+2020-10-27,Southern,Rio Grande,3186,84.46,96.52,98.09,98.84,inbound
+2020-10-27,Southern,South Florida,11024,94.5,98.81,99.12,99.34,inbound
+2020-10-27,Southern,Suncoast,62477,97.13,99.2,99.49,99.63,inbound
+2020-10-27,Western,Alaska,3543,81.23,93.73,94.98,95.17,inbound
+2020-10-27,Western,Arizona,166638,98.35,99.74,99.8,99.86,inbound
+2020-10-27,Western,Central Plains,8075,95.62,98.54,98.72,98.98,inbound
+2020-10-27,Western,Colorado/Wyoming,28379,77.12,90.99,93.32,95.4,inbound
+2020-10-27,Western,Dakotas,11656,92.66,99.26,99.5,99.71,inbound
+2020-10-27,Western,Hawkeye,20590,97.7,99.04,99.18,99.25,inbound
+2020-10-27,Western,Mid-Americas,9768,95.01,99.21,99.57,99.73,inbound
+2020-10-27,Western,Nevada Sierra,30872,97.69,99.47,99.67,99.71,inbound
+2020-10-27,Western,Northland,6702,95.48,99.19,99.42,99.63,inbound
+2020-10-27,Western,Portland,102037,97.79,99.68,99.84,99.91,inbound
+2020-10-27,Western,Salt Lake City,61571,88.99,99.69,99.8,99.92,inbound
+2020-10-27,Western,Seattle,136547,98.09,99.65,99.74,99.77,inbound
+2020-10-28,Metro,Atlanta,18127,94.97,96.49,98.98,99.24,inbound
+2020-10-28,Metro,Baltimore,16862,94.19,94.8,96.75,99.42,inbound
+2020-10-28,Metro,Capital,17375,96.44,96.99,99.03,99.36,inbound
+2020-10-28,Metro,Greater S Carolina,13036,91.1,92.42,97.87,98.32,inbound
+2020-10-28,Metro,Greensboro,22926,90.91,91.63,96.46,97.18,inbound
+2020-10-28,Metro,Mid-Carolinas,15516,90.07,91.22,97.11,97.53,inbound
+2020-10-28,Metro,Norther Virginia,16389,97.03,97.94,98.82,98.93,inbound
+2020-10-28,Metro,Richmond,16093,96.9,97.66,99.03,99.23,inbound
+2020-10-28,Eastern,Appalachian,1943,88.78,89.29,93.82,93.88,inbound
+2020-10-28,Eastern,Central Pennsylvania,37819,83.25,83.76,98.9,99.44,inbound
+2020-10-28,Eastern,Kentuckiana,492,59.96,64.84,83.74,84.96,inbound
+2020-10-28,Eastern,Norther Ohio,46266,97.63,97.98,99.31,99.36,inbound
+2020-10-28,Eastern,Ohio Valley,27916,97.97,98.34,99.55,99.79,inbound
+2020-10-28,Eastern,Philadelphia Metropo,48472,96.7,97.04,98.9,99.37,inbound
+2020-10-28,Eastern,South Jersey,26594,97.45,97.76,98.29,98.42,inbound
+2020-10-28,Eastern,Tennessee,5605,94.08,96.25,99.18,99.41,inbound
+2020-10-28,Eastern,Western New York,16349,98.53,99.25,99.68,99.72,inbound
+2020-10-28,Eastern,Western Pennsylvania,41157,98.52,98.95,99.8,99.9,inbound
+2020-10-28,Great Lakes,Central Illinois,31272,96.12,97.52,99.09,99.25,inbound
+2020-10-28,Great Lakes,Chicago,20434,95.89,96.09,97.18,97.28,inbound
+2020-10-28,Great Lakes,Detroit,6999,78.91,81.91,95.46,98.27,inbound
+2020-10-28,Great Lakes,Gateway,11603,95.67,96.59,98.47,98.57,inbound
+2020-10-28,Great Lakes,Greater Indiana,1554,86.16,91.12,96.98,98.33,inbound
+2020-10-28,Great Lakes,Greater Michigan,7955,95.5,97.06,99.01,99.16,inbound
+2020-10-28,Great Lakes,Lakeland,2162,92.83,94.54,96.48,96.76,inbound
+2020-10-28,Northeast,Albany,22833,98.31,98.62,99.3,99.44,inbound
+2020-10-28,Northeast,Caribbean,7612,99.5,99.57,99.75,99.79,inbound
+2020-10-28,Northeast,Connecticut Valley,13825,98.12,98.37,99,99.09,inbound
+2020-10-28,Northeast,Greater Boston,66087,97.73,98.26,99.53,99.62,inbound
+2020-10-28,Northeast,Long Island,24045,99,99.15,99.45,99.48,inbound
+2020-10-28,Northeast,New York,24947,97.35,98.16,99.04,99.27,inbound
+2020-10-28,Northeast,Northern New England,955,82.41,87.64,96.44,96.96,inbound
+2020-10-28,Northeast,Northern New Jersey,43225,97.28,97.39,97.98,98.05,inbound
+2020-10-28,Northeast,Triboro,13782,88.14,88.42,88.62,88.67,inbound
+2020-10-28,Northeast,Westchester,17295,97.89,98.14,98.61,98.65,inbound
+2020-10-28,Pacific,Bay-Valley,83496,99.19,99.34,99.48,99.52,inbound
+2020-10-28,Pacific,Honolulu,39244,98.96,99.23,99.71,99.8,inbound
+2020-10-28,Pacific,Los Angeles,67520,98.87,99.14,99.37,99.4,inbound
+2020-10-28,Pacific,Sacramento,70093,99.33,99.48,99.62,99.64,inbound
+2020-10-28,Pacific,San Diego,134611,99.32,99.55,99.81,99.85,inbound
+2020-10-28,Pacific,San Francisco,49668,98.9,99.34,99.58,99.61,inbound
+2020-10-28,Pacific,Santa Ana,60227,99.66,99.76,99.87,99.9,inbound
+2020-10-28,Pacific,Sierra Coastal,47137,98.83,99.05,99.27,99.3,inbound
+2020-10-28,Southern,Alabama,626,71.09,75.88,93.93,95.85,inbound
+2020-10-28,Southern,Arkansas,864,94.68,96.06,98.61,98.73,inbound
+2020-10-28,Southern,Dallas,3017,93.87,96.85,99.04,99.2,inbound
+2020-10-28,Southern,Ft. Worth,1678,95.11,96.13,96.78,96.84,inbound
+2020-10-28,Southern,Gulf Atlantic,19732,93.99,94.77,99.08,99.31,inbound
+2020-10-28,Southern,Houston,7144,95.04,96.01,97.12,97.19,inbound
+2020-10-28,Southern,Louisiana,431,65.43,74.94,91.42,96.98,inbound
+2020-10-28,Southern,Mississippi,540,91.48,93.7,98.15,99.07,inbound
+2020-10-28,Southern,Oklahoma,154,62.99,79.22,94.81,98.7,inbound
+2020-10-28,Southern,Rio Grande,3714,91.65,94.32,98.41,98.9,inbound
+2020-10-28,Southern,South Florida,9167,94.97,96.33,98.65,99.08,inbound
+2020-10-28,Southern,Suncoast,51569,96.43,97.09,99.32,99.45,inbound
+2020-10-28,Western,Alaska,4966,93.76,96.34,98.79,99.05,inbound
+2020-10-28,Western,Arizona,159578,98.07,98.36,98.71,98.78,inbound
+2020-10-28,Western,Central Plains,7609,96.49,97.23,98,98.19,inbound
+2020-10-28,Western,Colorado/Wyoming,20098,78.74,81.18,88.12,89.74,inbound
+2020-10-28,Western,Dakotas,10662,96.6,97.77,99.59,99.75,inbound
+2020-10-28,Western,Hawkeye,19854,98.47,98.83,99.25,99.29,inbound
+2020-10-28,Western,Mid-Americas,9351,95.63,97.22,99.11,99.38,inbound
+2020-10-28,Western,Nevada Sierra,25585,98.03,98.54,99.3,99.39,inbound
+2020-10-28,Western,Northland,5279,97.08,97.9,99.19,99.79,inbound
+2020-10-28,Western,Portland,94205,98.12,98.31,99.79,99.85,inbound
+2020-10-28,Western,Salt Lake City,55214,98.09,98.65,99.79,99.86,inbound
+2020-10-28,Western,Seattle,101359,98.25,99.17,99.71,99.78,inbound
+2020-10-29,Metro,Atlanta,15289,93.1,94.59,95.21,96.52,inbound
+2020-10-29,Metro,Baltimore,18039,95.63,98.2,98.72,99.47,inbound
+2020-10-29,Metro,Capital,13989,94.93,98.1,98.57,99.12,inbound
+2020-10-29,Metro,Greater S Carolina,13099,77.48,95.23,96.29,98.34,inbound
+2020-10-29,Metro,Greensboro,18629,89.14,95.28,95.91,97.44,inbound
+2020-10-29,Metro,Mid-Carolinas,14055,84.35,95.3,96.04,97.6,inbound
+2020-10-29,Metro,Norther Virginia,13428,95.12,96.75,97.16,97.91,inbound
+2020-10-29,Metro,Richmond,14007,93.69,97.99,98.58,98.86,inbound
+2020-10-29,Eastern,Appalachian,1847,89.5,93.99,94.86,96.05,inbound
+2020-10-29,Eastern,Central Pennsylvania,40290,69.17,96.93,97.19,99.51,inbound
+2020-10-29,Eastern,Kentuckiana,679,83.51,83.8,87.78,90.28,inbound
+2020-10-29,Eastern,Norther Ohio,30000,86.1,98.35,98.45,98.7,inbound
+2020-10-29,Eastern,Ohio Valley,25227,95.49,98.06,98.45,98.81,inbound
+2020-10-29,Eastern,Philadelphia Metropo,25639,90.92,95.5,96.22,98.51,inbound
+2020-10-29,Eastern,South Jersey,21478,95.44,97.15,97.35,98.21,inbound
+2020-10-29,Eastern,Tennessee,5076,96.43,97.14,98.07,98.82,inbound
+2020-10-29,Eastern,Western New York,14292,96.68,97.93,99.01,99.16,inbound
+2020-10-29,Eastern,Western Pennsylvania,27811,97.25,99.16,99.33,99.52,inbound
+2020-10-29,Great Lakes,Central Illinois,28470,96.83,97.77,98.38,99.03,inbound
+2020-10-29,Great Lakes,Chicago,21520,95.26,96.57,96.74,96.92,inbound
+2020-10-29,Great Lakes,Detroit,8005,76.23,91.74,93.53,98.36,inbound
+2020-10-29,Great Lakes,Gateway,7865,93.2,95.94,96.33,96.88,inbound
+2020-10-29,Great Lakes,Greater Indiana,1502,83.22,87.95,94.21,98.87,inbound
+2020-10-29,Great Lakes,Greater Michigan,7122,89.15,95.42,96.69,97.51,inbound
+2020-10-29,Great Lakes,Lakeland,2034,93.71,95.62,97.49,98.23,inbound
+2020-10-29,Northeast,Albany,15362,96.89,99.18,99.39,99.51,inbound
+2020-10-29,Northeast,Caribbean,5004,99.78,99.78,99.82,99.92,inbound
+2020-10-29,Northeast,Connecticut Valley,10406,95.49,97.98,98.43,98.78,inbound
+2020-10-29,Northeast,Greater Boston,30096,92.46,97.9,98.58,98.84,inbound
+2020-10-29,Northeast,Long Island,18104,96.99,98.39,98.87,99,inbound
+2020-10-29,Northeast,New York,30152,97.08,98.67,98.81,99.24,inbound
+2020-10-29,Northeast,Northern New England,969,80.7,91.43,94.01,98.97,inbound
+2020-10-29,Northeast,Northern New Jersey,34718,97.54,98.64,98.72,98.9,inbound
+2020-10-29,Northeast,Triboro,12646,92.35,94.03,94.11,94.25,inbound
+2020-10-29,Northeast,Westchester,12785,95.92,97.92,98.24,98.62,inbound
+2020-10-29,Pacific,Bay-Valley,65845,98.46,98.74,98.94,99.09,inbound
+2020-10-29,Pacific,Honolulu,18743,91.47,93.42,94.9,99.64,inbound
+2020-10-29,Pacific,Los Angeles,57622,98.35,99,99.08,99.26,inbound
+2020-10-29,Pacific,Sacramento,56128,98.56,98.84,98.96,99.03,inbound
+2020-10-29,Pacific,San Diego,94525,99.32,99.44,99.62,99.73,inbound
+2020-10-29,Pacific,San Francisco,40327,98.87,99.04,99.21,99.39,inbound
+2020-10-29,Pacific,Santa Ana,49426,98.58,99.61,99.78,99.85,inbound
+2020-10-29,Pacific,Sierra Coastal,41128,98.56,99.04,99.17,99.28,inbound
+2020-10-29,Southern,Alabama,863,88.99,90.38,92.93,95.48,inbound
+2020-10-29,Southern,Arkansas,991,97.68,98.28,98.89,98.99,inbound
+2020-10-29,Southern,Dallas,3395,95.32,95.79,97.73,98.41,inbound
+2020-10-29,Southern,Ft. Worth,1617,94.37,95.05,95.3,96.23,inbound
+2020-10-29,Southern,Gulf Atlantic,15182,95.8,97.21,98.35,99.26,inbound
+2020-10-29,Southern,Houston,8963,96.32,96.89,97.18,97.67,inbound
+2020-10-29,Southern,Louisiana,830,92.65,93.37,95.3,97.71,inbound
+2020-10-29,Southern,Mississippi,354,93.22,94.07,97.46,98.59,inbound
+2020-10-29,Southern,Oklahoma,370,80.27,83.24,88.11,93.24,inbound
+2020-10-29,Southern,Rio Grande,3222,94.17,94.91,96.06,97.49,inbound
+2020-10-29,Southern,South Florida,6601,96.09,96.74,97.45,98.67,inbound
+2020-10-29,Southern,Suncoast,35663,97.94,98.26,98.72,99.09,inbound
+2020-10-29,Western,Alaska,3719,83.11,84.57,86.31,95.81,inbound
+2020-10-29,Western,Arizona,62929,98.43,98.63,99,99.33,inbound
+2020-10-29,Western,Central Plains,7387,93.88,96.07,96.56,97.44,inbound
+2020-10-29,Western,Colorado/Wyoming,15304,69.9,74.69,78.08,86.25,inbound
+2020-10-29,Western,Dakotas,7943,97.53,98,98.74,99.32,inbound
+2020-10-29,Western,Hawkeye,16522,97.65,98.64,98.83,99.06,inbound
+2020-10-29,Western,Mid-Americas,7152,95.05,97.46,97.94,98.97,inbound
+2020-10-29,Western,Nevada Sierra,24124,98.15,99.16,99.42,99.59,inbound
+2020-10-29,Western,Northland,5187,84.11,90.53,90.88,99.42,inbound
+2020-10-29,Western,Portland,45805,97.46,98.55,98.93,99.05,inbound
+2020-10-29,Western,Salt Lake City,42682,97.61,99.16,99.4,99.74,inbound
+2020-10-29,Western,Seattle,77296,98.12,98.93,99.26,99.39,inbound
+2020-10-30,Metro,Atlanta,8233,78.22,93.26,94.04,94.51,inbound
+2020-10-30,Metro,Baltimore,12517,90.83,95.63,97.15,97.47,inbound
+2020-10-30,Metro,Capital,12224,92.51,97.55,98.13,98.24,inbound
+2020-10-30,Metro,Greater S Carolina,9127,81.95,92.75,95.77,96.12,inbound
+2020-10-30,Metro,Greensboro,13030,80.82,90.66,94.98,95.26,inbound
+2020-10-30,Metro,Mid-Carolinas,9915,77.29,91.66,96.23,96.55,inbound
+2020-10-30,Metro,Norther Virginia,13648,91.76,95.93,96.27,96.41,inbound
+2020-10-30,Metro,Richmond,12627,90.87,97.73,98.68,98.84,inbound
+2020-10-30,Eastern,Appalachian,1486,89.77,95.63,96.03,96.37,inbound
+2020-10-30,Eastern,Central Pennsylvania,21627,64.05,93.54,97.49,97.82,inbound
+2020-10-30,Eastern,Kentuckiana,559,72.45,87.12,87.12,88.19,inbound
+2020-10-30,Eastern,Norther Ohio,27347,94.97,98.01,98.78,98.85,inbound
+2020-10-30,Eastern,Ohio Valley,20704,93.75,98.33,99.01,99.1,inbound
+2020-10-30,Eastern,Philadelphia Metropo,15297,86.91,95.18,98.07,98.31,inbound
+2020-10-30,Eastern,South Jersey,14792,92.51,95.15,96.81,96.91,inbound
+2020-10-30,Eastern,Tennessee,4816,91.45,98.21,98.32,98.71,inbound
+2020-10-30,Eastern,Western New York,11416,97.07,99.31,99.35,99.39,inbound
+2020-10-30,Eastern,Western Pennsylvania,20447,90.8,98.7,99,99.11,inbound
+2020-10-30,Great Lakes,Central Illinois,17615,88.44,96.7,97.01,97.37,inbound
+2020-10-30,Great Lakes,Chicago,10806,91.44,95.22,95.39,95.69,inbound
+2020-10-30,Great Lakes,Detroit,7070,77.04,89.52,96.42,97.31,inbound
+2020-10-30,Great Lakes,Gateway,5810,89.97,96.73,96.95,97.28,inbound
+2020-10-30,Great Lakes,Greater Indiana,801,60.8,92.76,93.63,96.25,inbound
+2020-10-30,Great Lakes,Greater Michigan,4742,86.04,95.74,96.25,96.63,inbound
+2020-10-30,Great Lakes,Lakeland,1424,86.66,92.77,94.66,95.44,inbound
+2020-10-30,Northeast,Albany,15632,95.96,99.15,99.44,99.51,inbound
+2020-10-30,Northeast,Caribbean,3525,98.7,99.69,99.69,99.77,inbound
+2020-10-30,Northeast,Connecticut Valley,8035,91.28,97.34,97.73,97.88,inbound
+2020-10-30,Northeast,Greater Boston,21993,93.53,98.07,98.3,98.49,inbound
+2020-10-30,Northeast,Long Island,13151,94.47,97.92,98.14,98.17,inbound
+2020-10-30,Northeast,New York,23959,93.84,98.51,98.94,99.19,inbound
+2020-10-30,Northeast,Northern New England,718,72.98,90.95,91.09,93.45,inbound
+2020-10-30,Northeast,Northern New Jersey,24342,97.37,98.87,99.01,99.04,inbound
+2020-10-30,Northeast,Triboro,9568,89.62,93.1,93.53,93.57,inbound
+2020-10-30,Northeast,Westchester,14402,95.45,98.84,99.1,99.17,inbound
+2020-10-30,Pacific,Bay-Valley,49516,98.29,99.12,99.17,99.22,inbound
+2020-10-30,Pacific,Honolulu,6249,92.32,94.29,95.73,97.36,inbound
+2020-10-30,Pacific,Los Angeles,44722,98.69,99.27,99.28,99.32,inbound
+2020-10-30,Pacific,Sacramento,40285,98.26,99.34,99.4,99.43,inbound
+2020-10-30,Pacific,San Diego,70986,97.99,99.69,99.7,99.75,inbound
+2020-10-30,Pacific,San Francisco,31287,96.32,99.11,99.18,99.21,inbound
+2020-10-30,Pacific,Santa Ana,40064,98.73,99.65,99.67,99.68,inbound
+2020-10-30,Pacific,Sierra Coastal,32885,97.97,99.12,99.13,99.14,inbound
+2020-10-30,Southern,Alabama,933,75.03,92.39,92.93,93.46,inbound
+2020-10-30,Southern,Arkansas,710,92.39,96.48,96.48,96.76,inbound
+2020-10-30,Southern,Dallas,3820,89.14,97.41,97.41,97.51,inbound
+2020-10-30,Southern,Ft. Worth,1345,80,91.38,92.79,92.86,inbound
+2020-10-30,Southern,Gulf Atlantic,11087,85.21,94.34,95.32,95.81,inbound
+2020-10-30,Southern,Houston,4221,86.61,91.49,91.64,92.06,inbound
+2020-10-30,Southern,Louisiana,718,83.98,97.77,97.77,98.47,inbound
+2020-10-30,Southern,Mississippi,377,72.94,94.69,94.96,96.82,inbound
+2020-10-30,Southern,Oklahoma,630,63.33,95.24,95.24,98.25,inbound
+2020-10-30,Southern,Rio Grande,2837,81.57,94.57,94.64,95.52,inbound
+2020-10-30,Southern,South Florida,6014,88.41,96.94,96.97,97.46,inbound
+2020-10-30,Southern,Suncoast,26853,93.73,97.99,98.04,98.21,inbound
+2020-10-30,Western,Alaska,5009,90.88,96.31,97.56,97.88,inbound
+2020-10-30,Western,Arizona,28067,91.66,98.31,98.44,98.67,inbound
+2020-10-30,Western,Central Plains,4921,93.7,96.65,96.81,96.93,inbound
+2020-10-30,Western,Colorado/Wyoming,12027,58.78,70.33,71.23,75.61,inbound
+2020-10-30,Western,Dakotas,6006,94.27,98.38,98.43,98.65,inbound
+2020-10-30,Western,Hawkeye,11945,95.09,98.23,98.58,98.75,inbound
+2020-10-30,Western,Mid-Americas,5465,90.59,98.1,98.24,98.74,inbound
+2020-10-30,Western,Nevada Sierra,17860,97.77,99.4,99.43,99.53,inbound
+2020-10-30,Western,Northland,3214,93.06,98.35,98.57,98.72,inbound
+2020-10-30,Western,Portland,23745,95.45,98.73,99.17,99.28,inbound
+2020-10-30,Western,Salt Lake City,50303,98.62,99.64,99.68,99.8,inbound
+2020-10-30,Western,Seattle,65332,94.61,98.7,98.86,99.08,inbound
+2020-10-31,Metro,Atlanta,7700,57.17,94.9,98.27,98.27,inbound
+2020-10-31,Metro,Baltimore,7184,89.05,94.17,97.31,98.26,inbound
+2020-10-31,Metro,Capital,9758,91.69,95.95,98.29,98.41,inbound
+2020-10-31,Metro,Greater S Carolina,5975,76.72,92.13,97.19,97.92,inbound
+2020-10-31,Metro,Greensboro,10924,77.9,89.63,94.59,97.17,inbound
+2020-10-31,Metro,Mid-Carolinas,8763,75.81,92.8,95.91,96.05,inbound
+2020-10-31,Metro,Norther Virginia,10262,76.55,82.84,92.68,92.73,inbound
+2020-10-31,Metro,Richmond,8651,84.73,96.32,98.09,98.36,inbound
+2020-10-31,Eastern,Appalachian,951,82.44,94.95,95.58,95.9,inbound
+2020-10-31,Eastern,Central Pennsylvania,15434,52.36,90.68,97.6,98.95,inbound
+2020-10-31,Eastern,Kentuckiana,529,66.92,78.07,84.12,84.12,inbound
+2020-10-31,Eastern,Norther Ohio,15731,92.42,96.07,98.89,99,inbound
+2020-10-31,Eastern,Ohio Valley,17611,94.33,97.57,98.84,99.35,inbound
+2020-10-31,Eastern,Philadelphia Metropo,10008,77.39,88.01,96.59,98.18,inbound
+2020-10-31,Eastern,South Jersey,11843,92.26,94.9,96.79,96.99,inbound
+2020-10-31,Eastern,Tennessee,2178,84.16,92.88,95.91,95.91,inbound
+2020-10-31,Eastern,Western New York,8851,92.97,97.01,98.8,98.84,inbound
+2020-10-31,Eastern,Western Pennsylvania,14797,90.98,95.62,99.29,99.41,inbound
+2020-10-31,Great Lakes,Central Illinois,16790,89.96,96.15,97.75,98.06,inbound
+2020-10-31,Great Lakes,Chicago,9830,88.32,91.05,91.7,92.17,inbound
+2020-10-31,Great Lakes,Detroit,2828,78.01,88.54,95.37,95.9,inbound
+2020-10-31,Great Lakes,Gateway,3835,87.17,93.56,96.92,97.37,inbound
+2020-10-31,Great Lakes,Greater Indiana,410,53.9,83.17,89.76,90,inbound
+2020-10-31,Great Lakes,Greater Michigan,3466,68.61,93.83,96.91,97.23,inbound
+2020-10-31,Great Lakes,Lakeland,1148,73.43,91.38,97.04,97.13,inbound
+2020-10-31,Northeast,Albany,7694,94.96,97.6,98.93,99.06,inbound
+2020-10-31,Northeast,Caribbean,2590,97.95,99.42,99.5,99.5,inbound
+2020-10-31,Northeast,Connecticut Valley,4085,92.04,96.38,98.02,98.26,inbound
+2020-10-31,Northeast,Greater Boston,10416,90.89,96.44,98.39,98.51,inbound
+2020-10-31,Northeast,Long Island,16977,97.13,98.69,99.18,99.27,inbound
+2020-10-31,Northeast,New York,7733,90.95,95.72,97.79,97.92,inbound
+2020-10-31,Northeast,Northern New England,461,61.61,78.74,91.54,91.54,inbound
+2020-10-31,Northeast,Northern New Jersey,21138,94.23,97.69,97.92,97.99,inbound
+2020-10-31,Northeast,Triboro,6360,87.63,93.14,93.46,93.57,inbound
+2020-10-31,Northeast,Westchester,5963,94.62,97.85,98.61,98.86,inbound
+2020-10-31,Pacific,Bay-Valley,40547,97.85,98.91,99.19,99.23,inbound
+2020-10-31,Pacific,Honolulu,5467,85,98.06,98.39,98.45,inbound
+2020-10-31,Pacific,Los Angeles,37737,98.37,99.12,99.34,99.34,inbound
+2020-10-31,Pacific,Sacramento,36850,97.07,98.87,99.17,99.21,inbound
+2020-10-31,Pacific,San Diego,58224,98.1,99.36,99.67,99.68,inbound
+2020-10-31,Pacific,San Francisco,23706,96.02,98.52,99.07,99.11,inbound
+2020-10-31,Pacific,Santa Ana,30087,98.89,99.57,99.67,99.68,inbound
+2020-10-31,Pacific,Sierra Coastal,24153,97.52,98.57,99.31,99.33,inbound
+2020-10-31,Southern,Alabama,657,62.56,81.43,91.63,91.63,inbound
+2020-10-31,Southern,Arkansas,548,85.58,91.79,97.08,97.08,inbound
+2020-10-31,Southern,Dallas,3604,86.9,95.95,97.89,97.89,inbound
+2020-10-31,Southern,Ft. Worth,1748,85.35,90.22,92.73,93.48,inbound
+2020-10-31,Southern,Gulf Atlantic,7984,83.13,94.31,97.82,97.96,inbound
+2020-10-31,Southern,Houston,3004,79.96,89.58,91.54,91.84,inbound
+2020-10-31,Southern,Louisiana,488,56.97,89.55,94.47,94.47,inbound
+2020-10-31,Southern,Mississippi,620,60,90,97.26,97.58,inbound
+2020-10-31,Southern,Oklahoma,468,70.73,86.75,93.16,93.16,inbound
+2020-10-31,Southern,Rio Grande,2781,82.74,93.38,96.12,96.22,inbound
+2020-10-31,Southern,South Florida,4228,84.32,92.22,96.33,96.5,inbound
+2020-10-31,Southern,Suncoast,15502,92.45,96.55,98.25,98.26,inbound
+2020-10-31,Western,Alaska,2815,91.72,96.02,97.51,98.12,inbound
+2020-10-31,Western,Arizona,16324,88.97,94.47,97.45,97.65,inbound
+2020-10-31,Western,Central Plains,3464,88.6,93.76,97.06,97.11,inbound
+2020-10-31,Western,Colorado/Wyoming,10502,37.73,53.27,68.66,69.92,inbound
+2020-10-31,Western,Dakotas,3234,87.88,94.31,97.68,97.8,inbound
+2020-10-31,Western,Hawkeye,6072,94.19,97.05,98.53,98.55,inbound
+2020-10-31,Western,Mid-Americas,3804,79.23,92.25,98.55,98.69,inbound
+2020-10-31,Western,Nevada Sierra,18347,94.58,98.82,99.54,99.55,inbound
+2020-10-31,Western,Northland,2586,74.56,94.62,97.6,97.68,inbound
+2020-10-31,Western,Portland,16700,92.2,97.76,98.79,99.09,inbound
+2020-10-31,Western,Salt Lake City,28738,94.6,98.56,99.55,99.56,inbound
+2020-10-31,Western,Seattle,55003,94.65,98.1,98.82,98.84,inbound
+2020-11-02,Metro,Atlanta,6502,60.87,89.05,94.56,95.37,inbound
+2020-11-02,Metro,Baltimore,11639,85.2,95.1,98.24,99.23,inbound
+2020-11-02,Metro,Capital,9328,90.33,95.51,97.66,98.55,inbound
+2020-11-02,Metro,Greater S Carolina,7776,79.99,90.05,94.07,97.57,inbound
+2020-11-02,Metro,Greensboro,12448,70.9,84.75,93.04,94.46,inbound
+2020-11-02,Metro,Mid-Carolinas,10219,74.16,84.95,94.99,96.08,inbound
+2020-11-02,Metro,Norther Virginia,13753,93.15,95.9,96.76,97.12,inbound
+2020-11-02,Metro,Richmond,10872,89.64,94.42,95.91,96.62,inbound
+2020-11-02,Eastern,Appalachian,1178,73.17,83.45,85.31,85.91,inbound
+2020-11-02,Eastern,Central Pennsylvania,26386,69.09,89.87,93.99,95.13,inbound
+2020-11-02,Eastern,Kentuckiana,612,69.28,84.31,89.05,90.36,inbound
+2020-11-02,Eastern,Norther Ohio,15457,88.22,93.94,96.69,97.26,inbound
+2020-11-02,Eastern,Ohio Valley,15518,93.36,96.91,98.5,98.9,inbound
+2020-11-02,Eastern,Philadelphia Metropo,15678,79.23,87.25,94.14,97.34,inbound
+2020-11-02,Eastern,South Jersey,10357,89.18,92.68,95.13,97.26,inbound
+2020-11-02,Eastern,Tennessee,5373,87.96,94.12,97.71,98.36,inbound
+2020-11-02,Eastern,Western New York,9418,94.92,97.71,98.25,98.62,inbound
+2020-11-02,Eastern,Western Pennsylvania,12187,91.66,95.42,96.96,99.07,inbound
+2020-11-02,Great Lakes,Central Illinois,14663,91.35,96.61,97.84,98.53,inbound
+2020-11-02,Great Lakes,Chicago,13202,70.39,75.29,77.06,77.25,inbound
+2020-11-02,Great Lakes,Detroit,3481,77.51,87.88,93.51,95.58,inbound
+2020-11-02,Great Lakes,Gateway,3591,82.85,90.98,93.65,94.96,inbound
+2020-11-02,Great Lakes,Greater Indiana,921,66.34,87.19,93.27,96.31,inbound
+2020-11-02,Great Lakes,Greater Michigan,4811,86.8,95.01,97.09,97.9,inbound
+2020-11-02,Great Lakes,Lakeland,1567,80.66,91.83,95.09,96.81,inbound
+2020-11-02,Northeast,Albany,10436,95.07,97.7,98.47,98.97,inbound
+2020-11-02,Northeast,Caribbean,1557,96.34,98.46,98.97,99.04,inbound
+2020-11-02,Northeast,Connecticut Valley,6642,93.12,96.42,97.47,98.09,inbound
+2020-11-02,Northeast,Greater Boston,14356,90.55,94.54,96.17,97.33,inbound
+2020-11-02,Northeast,Long Island,11047,95.08,96.97,97.42,97.59,inbound
+2020-11-02,Northeast,New York,34833,96.22,98.14,98.74,99.01,inbound
+2020-11-02,Northeast,Northern New England,439,72.44,80.64,88.15,95.22,inbound
+2020-11-02,Northeast,Northern New Jersey,20787,96.04,97.36,98.07,98.4,inbound
+2020-11-02,Northeast,Triboro,9903,86.1,88.93,89.81,89.97,inbound
+2020-11-02,Northeast,Westchester,5045,91.12,94.71,96.91,97.26,inbound
+2020-11-02,Pacific,Bay-Valley,31508,95.32,98.5,98.73,98.87,inbound
+2020-11-02,Pacific,Honolulu,3625,75.97,92.5,96.39,96.52,inbound
+2020-11-02,Pacific,Los Angeles,25633,96.94,97.88,98.19,98.37,inbound
+2020-11-02,Pacific,Sacramento,30183,92.85,96,99.04,99.08,inbound
+2020-11-02,Pacific,San Diego,46782,97.75,98.97,99.38,99.58,inbound
+2020-11-02,Pacific,San Francisco,19383,96.16,97.55,97.91,97.99,inbound
+2020-11-02,Pacific,Santa Ana,21647,98.59,99.13,99.46,99.63,inbound
+2020-11-02,Pacific,Sierra Coastal,25857,96.85,97.53,97.8,98.21,inbound
+2020-11-02,Southern,Alabama,1136,68.66,86.09,94.98,96.92,inbound
+2020-11-02,Southern,Arkansas,903,87.15,95.9,98.12,98.89,inbound
+2020-11-02,Southern,Dallas,2692,90.71,95.1,98.03,98.44,inbound
+2020-11-02,Southern,Ft. Worth,1125,82.31,86.22,88.09,89.33,inbound
+2020-11-02,Southern,Gulf Atlantic,7167,78.61,91.54,95.88,97.21,inbound
+2020-11-02,Southern,Houston,2520,80.67,89.6,92.14,93.41,inbound
+2020-11-02,Southern,Louisiana,831,70.4,84.12,93.74,95.67,inbound
+2020-11-02,Southern,Mississippi,657,80.67,91.17,96.8,98.33,inbound
+2020-11-02,Southern,Oklahoma,797,82.31,93.1,95.86,97.99,inbound
+2020-11-02,Southern,Rio Grande,2464,82.18,90.5,94.44,97.69,inbound
+2020-11-02,Southern,South Florida,2793,73.43,84.17,87.79,93.63,inbound
+2020-11-02,Southern,Suncoast,13713,90.02,95.23,97.1,97.59,inbound
+2020-11-02,Western,Alaska,2342,79.59,84.76,87.36,88,inbound
+2020-11-02,Western,Arizona,10641,82.24,94.39,95.97,97.97,inbound
+2020-11-02,Western,Central Plains,3204,86.14,92.79,97.1,97.72,inbound
+2020-11-02,Western,Colorado/Wyoming,10445,53.15,71.3,81.52,89.42,inbound
+2020-11-02,Western,Dakotas,3792,90.06,94.33,95.91,97.65,inbound
+2020-11-02,Western,Hawkeye,9544,94.34,96.44,97.15,97.38,inbound
+2020-11-02,Western,Mid-Americas,3734,81.52,91.91,97.16,98.15,inbound
+2020-11-02,Western,Nevada Sierra,12070,96.99,98.67,99.29,99.54,inbound
+2020-11-02,Western,Northland,1892,86.89,95.14,97.83,98.47,inbound
+2020-11-02,Western,Portland,13627,93.67,97.23,98.22,98.91,inbound
+2020-11-02,Western,Salt Lake City,24480,96.46,98.79,99.34,99.54,inbound
+2020-11-02,Western,Seattle,38587,94.88,97.11,97.81,98.25,inbound
+2020-11-03,Metro,Atlanta,1896,82.17,91.51,94.99,96.41,inbound
+2020-11-03,Metro,Baltimore,6219,90.64,96.48,98.44,98.91,inbound
+2020-11-03,Metro,Capital,4347,91.1,98.04,98.62,98.78,inbound
+2020-11-03,Metro,Greater S Carolina,1815,71.96,90.41,94.71,97.08,inbound
+2020-11-03,Metro,Greensboro,6574,72.92,94.46,97.31,98.02,inbound
+2020-11-03,Metro,Mid-Carolinas,3606,80.01,93.82,96.03,96.95,inbound
+2020-11-03,Metro,Norther Virginia,6049,93.14,96.35,96.91,97.07,inbound
+2020-11-03,Metro,Richmond,3335,85.76,93.94,95.23,95.71,inbound
+2020-11-03,Eastern,Appalachian,673,42.79,92.27,93.61,93.91,inbound
+2020-11-03,Eastern,Central Pennsylvania,10342,61.26,89.25,97.37,98.67,inbound
+2020-11-03,Eastern,Kentuckiana,262,62.98,85.11,86.64,88.93,inbound
+2020-11-03,Eastern,Norther Ohio,5692,92.53,98.1,98.91,98.96,inbound
+2020-11-03,Eastern,Ohio Valley,8495,94.89,98.71,99.27,99.52,inbound
+2020-11-03,Eastern,Philadelphia Metropo,3069,66.83,88.63,92.9,94.72,inbound
+2020-11-03,Eastern,South Jersey,10821,96.6,98.27,98.61,99.04,inbound
+2020-11-03,Eastern,Tennessee,1039,82,94.71,96.34,97.11,inbound
+2020-11-03,Eastern,Western New York,2698,92.59,98.52,99.22,99.3,inbound
+2020-11-03,Eastern,Western Pennsylvania,5628,90.92,97.35,98.19,98.51,inbound
+2020-11-03,Great Lakes,Central Illinois,10221,93.3,97.87,98.26,98.6,inbound
+2020-11-03,Great Lakes,Chicago,8950,63.63,74.85,75.81,76.21,inbound
+2020-11-03,Great Lakes,Detroit,979,78.86,87.84,93.26,94.89,inbound
+2020-11-03,Great Lakes,Gateway,1270,68.03,92.13,93.62,95.28,inbound
+2020-11-03,Great Lakes,Greater Indiana,178,70.79,91.57,93.82,95.51,inbound
+2020-11-03,Great Lakes,Greater Michigan,863,84.01,95.25,97.45,97.68,inbound
+2020-11-03,Great Lakes,Lakeland,659,76.18,94.23,98.33,98.33,inbound
+2020-11-03,Northeast,Albany,5354,91.31,99.36,99.63,99.72,inbound
+2020-11-03,Northeast,Caribbean,1313,98.63,99.7,99.85,100,inbound
+2020-11-03,Northeast,Connecticut Valley,1986,93.15,98.99,99.3,99.4,inbound
+2020-11-03,Northeast,Greater Boston,6922,94.39,98.57,98.9,99.25,inbound
+2020-11-03,Northeast,Long Island,11768,97.3,99.39,99.47,99.52,inbound
+2020-11-03,Northeast,New York,10543,95.39,99.02,99.39,99.63,inbound
+2020-11-03,Northeast,Northern New England,141,74.47,86.52,94.33,96.45,inbound
+2020-11-03,Northeast,Northern New Jersey,6991,93.22,98.93,99.11,99.34,inbound
+2020-11-03,Northeast,Triboro,3342,91.35,94.79,95.63,95.75,inbound
+2020-11-03,Northeast,Westchester,3279,91.89,98.57,98.75,98.87,inbound
+2020-11-03,Pacific,Bay-Valley,45811,96.45,96.94,97.01,97.02,inbound
+2020-11-03,Pacific,Honolulu,3348,94.38,97.91,98.66,98.84,inbound
+2020-11-03,Pacific,Los Angeles,39991,98.62,99.44,99.46,99.48,inbound
+2020-11-03,Pacific,Sacramento,37612,98.38,99.31,99.34,99.35,inbound
+2020-11-03,Pacific,San Diego,63120,99.26,99.85,99.9,99.93,inbound
+2020-11-03,Pacific,San Francisco,16282,99,99.57,99.59,99.67,inbound
+2020-11-03,Pacific,Santa Ana,34015,98.08,99.66,99.71,99.74,inbound
+2020-11-03,Pacific,Sierra Coastal,16355,99.08,99.64,99.74,99.81,inbound
+2020-11-03,Southern,Alabama,410,71.95,92.44,95.85,96.83,inbound
+2020-11-03,Southern,Arkansas,167,77.84,96.41,98.2,98.2,inbound
+2020-11-03,Southern,Dallas,1152,88.54,96.88,97.57,98.96,inbound
+2020-11-03,Southern,Ft. Worth,291,87.63,93.13,94.85,95.53,inbound
+2020-11-03,Southern,Gulf Atlantic,2297,83.02,94.95,96.47,97.69,inbound
+2020-11-03,Southern,Houston,734,84.47,95.78,96.19,96.59,inbound
+2020-11-03,Southern,Louisiana,345,77.68,95.07,95.65,98.84,inbound
+2020-11-03,Southern,Mississippi,454,85.02,97.36,97.58,97.58,inbound
+2020-11-03,Southern,Oklahoma,323,75.85,97.21,98.14,98.45,inbound
+2020-11-03,Southern,Rio Grande,946,85.62,96.72,97.78,98.2,inbound
+2020-11-03,Southern,South Florida,1694,85.12,95.87,97.11,97.82,inbound
+2020-11-03,Southern,Suncoast,3727,85.43,96.11,97.56,98.5,inbound
+2020-11-03,Western,Alaska,2411,87.47,95.81,96.39,96.6,inbound
+2020-11-03,Western,Arizona,5384,91.77,97.83,98.38,98.96,inbound
+2020-11-03,Western,Central Plains,1706,92.15,97.71,98.01,98.36,inbound
+2020-11-03,Western,Colorado/Wyoming,3893,55.59,83.23,91.14,93.24,inbound
+2020-11-03,Western,Dakotas,703,77.95,92.32,94.88,95.73,inbound
+2020-11-03,Western,Hawkeye,1751,92.29,97.72,98.17,98.23,inbound
+2020-11-03,Western,Mid-Americas,1814,87.38,97.68,98.35,98.62,inbound
+2020-11-03,Western,Nevada Sierra,15251,99.12,99.81,99.87,99.91,inbound
+2020-11-03,Western,Northland,1094,53.93,97.99,98.63,98.99,inbound
+2020-11-03,Western,Portland,8903,96.52,99.15,99.35,99.53,inbound
+2020-11-03,Western,Salt Lake City,30441,83.36,99.82,99.85,99.89,inbound
+2020-11-03,Western,Seattle,44825,98.63,99.58,99.67,99.69,inbound
+2020-10-24,Metro,Atlanta,4283,1.75,7.42,82.63,82.65,outbound
+2020-10-24,Metro,Baltimore,2068,96.86,98.16,98.36,98.65,outbound
+2020-10-24,Metro,Capital,176,49.43,85.23,89.77,90.91,outbound
+2020-10-24,Metro,Greater S Carolina,94,37.23,64.89,80.85,81.91,outbound
+2020-10-24,Metro,Greensboro,2108,97.34,99.48,99.48,99.53,outbound
+2020-10-24,Metro,Mid-Carolinas,666,91.14,96.4,97.45,97.45,outbound
+2020-10-24,Metro,Norther Virginia,54,44.44,92.59,92.59,92.59,outbound
+2020-10-24,Metro,Richmond,59,84.75,94.92,98.31,98.31,outbound
+2020-10-24,Eastern,Appalachian,70,68.57,90,98.57,98.57,outbound
+2020-10-24,Eastern,Central Pennsylvania,3916,1.33,99.46,99.46,99.46,outbound
+2020-10-24,Eastern,Kentuckiana,36,61.11,83.33,86.11,86.11,outbound
+2020-10-24,Eastern,Norther Ohio,4547,4.84,98.88,98.94,98.97,outbound
+2020-10-24,Eastern,Ohio Valley,1117,95.08,98.12,98.12,98.12,outbound
+2020-10-24,Eastern,Philadelphia Metropo,198,39.9,55.05,56.57,56.57,outbound
+2020-10-24,Eastern,South Jersey,508953,99.97,99.97,99.97,99.97,outbound
+2020-10-24,Eastern,Tennessee,124,39.52,87.1,92.74,92.74,outbound
+2020-10-24,Eastern,Western New York,28,57.14,100,100,100,outbound
+2020-10-24,Eastern,Pennsylvania,19006,98.13,98.86,99.46,99.82,outbound
+2020-10-24,Great Lakes,Central Illinois,1014,2.76,68.74,99.61,99.61,outbound
+2020-10-24,Great Lakes,Chicago,59,81.36,94.92,98.31,98.31,outbound
+2020-10-24,Great Lakes,Detroit,498,80.12,85.94,86.55,97.19,outbound
+2020-10-24,Great Lakes,Gateway,2609,83.94,97.55,98.93,98.93,outbound
+2020-10-24,Great Lakes,Greater Indiana,125,78.4,86.4,94.4,94.4,outbound
+2020-10-24,Great Lakes,Greater Michigan,2937,83.59,87.44,96.97,98.91,outbound
+2020-10-24,Great Lakes,Lakeland,107,27.1,49.53,74.77,74.77,outbound
+2020-10-24,Northeast,Albany,18,66.67,88.89,94.44,94.44,outbound
+2020-10-24,Northeast,Caribbean,4,100,100,100,100,outbound
+2020-10-24,Northeast,Connecticut Valley,22989,98.84,98.89,100,100,outbound
+2020-10-24,Northeast,Greater Boston,116,87.07,94.83,95.69,95.69,outbound
+2020-10-24,Northeast,Long Island,12,83.33,100,100,100,outbound
+2020-10-24,Northeast,New York,53,90.57,94.34,94.34,94.34,outbound
+2020-10-24,Northeast,Northern New England,22,81.82,95.45,95.45,95.45,outbound
+2020-10-24,Northeast,Northern New Jersey,22579,99.58,99.64,99.66,99.66,outbound
+2020-10-24,Northeast,Triboro,72,73.61,90.28,97.22,97.22,outbound
+2020-10-24,Northeast,Westchester,16,81.25,100,100,100,outbound
+2020-10-24,Pacific,Bay-Valley,125,21.6,43.2,43.2,43.2,outbound
+2020-10-24,Pacific,Honolulu,65,32.31,36.92,36.92,36.92,outbound
+2020-10-24,Pacific,Los Angeles,189,79.89,84.13,84.13,84.66,outbound
+2020-10-24,Pacific,Sacramento,2939,81.39,94.42,94.49,94.79,outbound
+2020-10-24,Pacific,San Diego,12366,99.7,99.87,99.91,99.93,outbound
+2020-10-24,Pacific,San Francisco,42,40.48,59.52,59.52,64.29,outbound
+2020-10-24,Pacific,Santa Ana,10303,96.62,96.68,98.78,98.79,outbound
+2020-10-24,Pacific,Sierra Coastal,3680,99.29,99.59,99.59,99.65,outbound
+2020-10-24,Southern,Alabama,55,34.55,80,89.09,89.09,outbound
+2020-10-24,Southern,Arkansas,31,45.16,96.77,96.77,96.77,outbound
+2020-10-24,Southern,Dallas,23,69.57,86.96,86.96,86.96,outbound
+2020-10-24,Southern,Ft. Worth,649,97.38,98.15,99.69,99.69,outbound
+2020-10-24,Southern,Gulf Atlantic,1969,3.61,13.76,85.07,91.37,outbound
+2020-10-24,Southern,Houston,41,19.51,80.49,82.93,82.93,outbound
+2020-10-24,Southern,Louisiana,25,32,68,72,72,outbound
+2020-10-24,Southern,Mississippi,38,36.84,84.21,94.74,94.74,outbound
+2020-10-24,Southern,Oklahoma,20,70,80,85,90,outbound
+2020-10-24,Southern,Rio Grande,54,55.56,83.33,90.74,90.74,outbound
+2020-10-24,Southern,South Florida,137,22.63,33.58,34.31,68.61,outbound
+2020-10-24,Southern,Suncoast,29921,60.56,61.62,62.19,99.06,outbound
+2020-10-24,Western,Alaska,25,36,44,44,72,outbound
+2020-10-24,Western,Arizona,41454,79.09,84.32,97.23,97.46,outbound
+2020-10-24,Western,Central Plains,35,68.57,77.14,80,80,outbound
+2020-10-24,Western,Colorado/Wyoming,2104,66.44,79.66,94.15,94.3,outbound
+2020-10-24,Western,Dakotas,54,29.63,79.63,81.48,81.48,outbound
+2020-10-24,Western,Hawkeye,44,47.73,90.91,100,100,outbound
+2020-10-24,Western,Mid-Americas,165,69.09,70.91,72.73,73.94,outbound
+2020-10-24,Western,Nevada Sierra,658,67.93,75.99,77.2,77.51,outbound
+2020-10-24,Western,Northland,406,15.76,79.31,87.44,87.44,outbound
+2020-10-24,Western,Portland,104,15.38,29.81,33.65,33.65,outbound
+2020-10-24,Western,Salt Lake City,3850,96.65,96.7,96.83,97.43,outbound
+2020-10-24,Western,Seattle,426,6.1,11.97,12.91,16.2,outbound
+2020-10-26,Metro,Atlanta,5410,1.66,1.81,2.09,27.08,outbound
+2020-10-26,Metro,Baltimore,41934,90.56,91.85,91.88,91.88,outbound
+2020-10-26,Metro,Capital,14440,99.74,99.84,99.91,99.92,outbound
+2020-10-26,Metro,Greater S Carolina,163,56.44,64.42,82.82,84.66,outbound
+2020-10-26,Metro,Greensboro,1633,97.49,98.16,99.14,99.45,outbound
+2020-10-26,Metro,Mid-Carolinas,748,97.46,97.99,99.33,100,outbound
+2020-10-26,Metro,Norther Virginia,146,85.62,89.73,99.32,99.32,outbound
+2020-10-26,Metro,Richmond,280,34.64,37.14,38.21,98.93,outbound
+2020-10-26,Eastern,Appalachian,57,66.67,71.93,89.47,92.98,outbound
+2020-10-26,Eastern,Central Pennsylvania,706,7.65,14.87,97.31,97.31,outbound
+2020-10-26,Eastern,Kentuckiana,74,78.38,78.38,95.95,97.3,outbound
+2020-10-26,Eastern,Norther Ohio,2487,35.79,62.69,86.29,86.33,outbound
+2020-10-26,Eastern,Ohio Valley,763,22.15,97.38,97.51,97.51,outbound
+2020-10-26,Eastern,Philadelphia Metropo,18341,95.05,95.3,99.42,99.45,outbound
+2020-10-26,Eastern,South Jersey,340245,99.96,99.98,99.98,99.98,outbound
+2020-10-26,Eastern,Tennessee,191,79.06,85.86,93.19,96.86,outbound
+2020-10-26,Eastern,Western New York,47,95.74,95.74,100,100,outbound
+2020-10-26,Eastern,Western Pennsylvania,2307,25.27,91.72,93.93,96.14,outbound
+2020-10-26,Great Lakes,Central Illinois,4449,78.17,78.17,95.39,99.93,outbound
+2020-10-26,Great Lakes,Chicago,136,76.47,83.09,92.65,97.79,outbound
+2020-10-26,Great Lakes,Detroit,95,47.37,58.95,74.74,74.74,outbound
+2020-10-26,Great Lakes,Gateway,7120,98.79,98.88,99.26,99.44,outbound
+2020-10-26,Great Lakes,Greater Indiana,210,92.38,93.81,97.14,98.57,outbound
+2020-10-26,Great Lakes,Greater Michigan,1653,7.26,27.95,48.22,98.85,outbound
+2020-10-26,Great Lakes,Lakeland,593,12.82,14.67,16.53,96.8,outbound
+2020-10-26,Northeast,Albany,135,93.33,94.07,100,100,outbound
+2020-10-26,Northeast,Caribbean,31,32.26,32.26,32.26,32.26,outbound
+2020-10-26,Northeast,Valley,417,98.08,98.08,100,100,outbound
+2020-10-26,Northeast,Greater Boston,268,88.06,88.06,98.51,99.25,outbound
+2020-10-26,Northeast,Long Island,42,90.48,90.48,92.86,100,outbound
+2020-10-26,Northeast,New York,390,94.1,96.92,99.23,100,outbound
+2020-10-26,Northeast,Northern New England,94,91.49,95.74,100,100,outbound
+2020-10-26,Northeast,Northern New Jersey,559874,97.49,99.99,99.99,99.99,outbound
+2020-10-26,Northeast,Triboro,217,94.01,95.85,97.7,98.62,outbound
+2020-10-26,Northeast,Westchester,70,97.14,98.57,100,100,outbound
+2020-10-26,Pacific,Bay-Valley,155,43.23,45.81,50.97,51.61,outbound
+2020-10-26,Pacific,Honolulu,76,63.16,67.11,72.37,72.37,outbound
+2020-10-26,Pacific,Los Angeles,139,73.38,73.38,82.01,82.01,outbound
+2020-10-26,Pacific,Sacramento,3643,95.69,96.1,96.49,97.01,outbound
+2020-10-26,Pacific,San Diego,259,81.85,84.56,85.33,86.87,outbound
+2020-10-26,Pacific,San Francisco,59,77.97,77.97,79.66,79.66,outbound
+2020-10-26,Pacific,Santa Ana,10083,98.78,98.95,99.02,99.05,outbound
+2020-10-26,Pacific,Sierra Coastal,5452,87.07,99.08,99.32,99.32,outbound
+2020-10-26,Southern,Alabama,124,58.06,61.29,91.94,97.58,outbound
+2020-10-26,Southern,Arkansas,48,87.5,89.58,97.92,97.92,outbound
+2020-10-26,Southern,Dallas,105,84.76,91.43,97.14,98.1,outbound
+2020-10-26,Southern,Ft. Worth,333,15.02,96.1,97.9,98.8,outbound
+2020-10-26,Southern,Gulf Atlantic,1191,10.24,12.17,20.07,88.75,outbound
+2020-10-26,Southern,Houston,89,84.27,91.01,98.88,98.88,outbound
+2020-10-26,Southern,Louisiana,102,55.88,60.78,72.55,72.55,outbound
+2020-10-26,Southern,Mississippi,43,67.44,74.42,90.7,93.02,outbound
+2020-10-26,Southern,Oklahoma,77,89.61,96.1,100,100,outbound
+2020-10-26,Southern,Rio Grande,114,85.09,87.72,92.98,99.12,outbound
+2020-10-26,Southern,South Florida,75,80,85.33,92,92,outbound
+2020-10-26,Southern,Suncoast,20099,72.16,75.6,76.08,76.45,outbound
+2020-10-26,Western,Alaska,16,62.5,81.25,87.5,87.5,outbound
+2020-10-26,Western,Arizona,44682,83.69,88.45,92.53,97.61,outbound
+2020-10-26,Western,Central Plains,179,28.49,28.49,32.4,34.08,outbound
+2020-10-26,Western,Colorado/Wyoming,2860,48.01,82.17,92.24,93.01,outbound
+2020-10-26,Western,Dakotas,60,55,56.67,71.67,73.33,outbound
+2020-10-26,Western,Hawkeye,59,81.36,84.75,94.92,96.61,outbound
+2020-10-26,Western,Mid-Americas,109,81.65,84.4,89.91,92.66,outbound
+2020-10-26,Western,Nevada Sierra,1020,60.98,78.43,80.39,81.76,outbound
+2020-10-26,Western,Northland,838,85.44,86.87,95.58,96.9,outbound
+2020-10-26,Western,Portland,164,63.41,65.85,70.73,72.56,outbound
+2020-10-26,Western,Salt Lake City,2928,89.11,89.48,95.42,96.24,outbound
+2020-10-26,Western,Seattle,735,12.79,13.61,18.1,35.92,outbound
+2020-10-27,Metro,Atlanta,15371,0.36,0.39,0.4,0.42,outbound
+2020-10-27,Metro,Baltimore,42960,66.1,66.11,66.79,66.79,outbound
+2020-10-27,Metro,Capital,24777,99.95,99.98,99.98,99.98,outbound
+2020-10-27,Metro,Carolina,106,64.15,86.79,89.62,96.23,outbound
+2020-10-27,Metro,Greensboro,1736,98.44,98.91,98.96,99.31,outbound
+2020-10-27,Metro,Mid-Carolinas,2244,88.68,99.33,99.42,99.78,outbound
+2020-10-27,Metro,Norther Virginia,28,60.71,92.86,96.43,96.43,outbound
+2020-10-27,Metro,Richmond,93,86.02,98.92,98.92,98.92,outbound
+2020-10-27,Eastern,Appalachian,69,36.23,44.93,44.93,44.93,outbound
+2020-10-27,Eastern,Central Pennsylvania,366,21.86,26.78,32.51,99.73,outbound
+2020-10-27,Eastern,Kentuckiana,47,8.51,21.28,21.28,95.74,outbound
+2020-10-27,Eastern,Norther Ohio,368,3.8,10.33,25.27,94.02,outbound
+2020-10-27,Eastern,Ohio Valley,61,34.43,65.57,81.97,90.16,outbound
+2020-10-27,Eastern,Philadelphia Metropo,470,85.74,90.85,96.17,99.36,outbound
+2020-10-27,Eastern,South Jersey,4583,99.76,99.83,99.87,99.87,outbound
+2020-10-27,Eastern,Tennessee,27,55.56,92.59,96.3,100,outbound
+2020-10-27,Eastern,Western New York,52,94.23,96.15,96.15,98.08,outbound
+2020-10-27,Eastern,Western Pennsylvania,7131,97.41,99.5,99.69,99.85,outbound
+2020-10-27,Great Lakes,Central Illinois,303,7.26,11.55,11.55,98.68,outbound
+2020-10-27,Great Lakes,Chicago,45,64.44,77.78,80,82.22,outbound
+2020-10-27,Great Lakes,Detroit,28,32.14,85.71,85.71,92.86,outbound
+2020-10-27,Great Lakes,Gateway,142,38.03,87.32,88.73,88.73,outbound
+2020-10-27,Great Lakes,Greater Indiana,80,62.5,90,92.5,95,outbound
+2020-10-27,Great Lakes,Greater Michigan,1166,0.86,13.12,99.66,99.83,outbound
+2020-10-27,Great Lakes,Lakeland,40,82.5,85,85,85,outbound
+2020-10-27,Northeast,Albany,6,50,66.67,66.67,66.67,outbound
+2020-10-27,Northeast,Caribbean,64,26.56,26.56,26.56,26.56,outbound
+2020-10-27,Northeast,Connecticut Valley,25,56,80,80,80,outbound
+2020-10-27,Northeast,Greater Boston,193,91.19,94.82,94.82,96.37,outbound
+2020-10-27,Northeast,Long Island,36,80.56,83.33,86.11,86.11,outbound
+2020-10-27,Northeast,New York,31,19.35,70.97,74.19,74.19,outbound
+2020-10-27,Northeast,Northern New England,15,66.67,73.33,73.33,80,outbound
+2020-10-27,Northeast,Northern New Jersey,370235,99.96,99.98,99.99,100,outbound
+2020-10-27,Northeast,Triboro,50,32,34,34,86,outbound
+2020-10-27,Northeast,Westchester,12,83.33,100,100,100,outbound
+2020-10-27,Pacific,Bay-Valley,29,51.72,58.62,58.62,58.62,outbound
+2020-10-27,Pacific,Honolulu,23,91.3,100,100,100,outbound
+2020-10-27,Pacific,Los Angeles,250,16.4,18.8,96.8,96.8,outbound
+2020-10-27,Pacific,Sacramento,21,42.86,57.14,66.67,76.19,outbound
+2020-10-27,Pacific,San Diego,396,10.86,13.89,76.26,76.52,outbound
+2020-10-27,Pacific,San Francisco,26,84.62,100,100,100,outbound
+2020-10-27,Pacific,Santa Ana,495,24.44,27.27,99.6,99.6,outbound
+2020-10-27,Pacific,Sierra Coastal,1520,98.55,99.54,99.61,99.67,outbound
+2020-10-27,Southern,Alabama,14,42.86,57.14,57.14,64.29,outbound
+2020-10-27,Southern,Arkansas,5,80,80,80,80,outbound
+2020-10-27,Southern,Dallas,26,61.54,65.38,69.23,69.23,outbound
+2020-10-27,Southern,Ft. Worth,51,27.45,39.22,78.43,100,outbound
+2020-10-27,Southern,Gulf Atlantic,288,14.93,22.92,24.65,25.69,outbound
+2020-10-27,Southern,Houston,40,70,85,87.5,90,outbound
+2020-10-27,Southern,Louisiana,24,79.17,91.67,91.67,91.67,outbound
+2020-10-27,Southern,Mississippi,6,100,100,100,100,outbound
+2020-10-27,Southern,Oklahoma,44,27.27,31.82,31.82,88.64,outbound
+2020-10-27,Southern,Rio Grande,61,45.9,55.74,55.74,77.05,outbound
+2020-10-27,Southern,South Florida,73,83.56,100,100,100,outbound
+2020-10-27,Southern,Suncoast,5919,90.93,94.46,94.85,97.25,outbound
+2020-10-27,Western,Alaska,5,20,60,100,100,outbound
+2020-10-27,Western,Arizona,4614,18.66,49.26,55.07,64.54,outbound
+2020-10-27,Western,Central Plains,17,52.94,70.59,70.59,70.59,outbound
+2020-10-27,Western,Colorado/Wyoming,1747,1.32,62.39,78.31,86.61,outbound
+2020-10-27,Western,Dakotas,50,20,34,38,40,outbound
+2020-10-27,Western,Hawkeye,11,72.73,100,100,100,outbound
+2020-10-27,Western,Mid-Americas,17,41.18,76.47,76.47,76.47,outbound
+2020-10-27,Western,Nevada Sierra,92,25,26.09,31.52,31.52,outbound
+2020-10-27,Western,Northland,1873,86.87,98.93,98.93,99.79,outbound
+2020-10-27,Western,Portland,233,6.44,9.01,96.57,96.57,outbound
+2020-10-27,Western,Salt Lake City,98,8.16,39.8,45.92,47.96,outbound
+2020-10-27,Western,Seattle,502,6.57,34.46,34.46,35.66,outbound
+2020-10-28,Metro,Atlanta,718,3.76,5.29,6.82,7.52,outbound
+2020-10-28,Metro,Baltimore,14852,54.75,96.24,96.28,96.49,outbound
+2020-10-28,Metro,Capital,202,8.42,62.38,67.33,67.33,outbound
+2020-10-28,Metro,Greater S Carolina,150,8,36,40,40.67,outbound
+2020-10-28,Metro,Greensboro,888,66.22,90.2,90.99,91.22,outbound
+2020-10-28,Metro,Mid-Carolinas,1097,56.97,98.72,99.73,99.73,outbound
+2020-10-28,Metro,Norther Virginia,80,23.75,23.75,25,25,outbound
+2020-10-28,Metro,Richmond,30,3.33,16.67,26.67,26.67,outbound
+2020-10-28,Eastern,Appalachian,32,31.25,31.25,31.25,34.38,outbound
+2020-10-28,Eastern,Central Pennsylvania,236,16.1,16.53,18.64,19.92,outbound
+2020-10-28,Eastern,Kentuckiana,13,46.15,61.54,61.54,61.54,outbound
+2020-10-28,Eastern,Norther Ohio,120,20,20.83,25.83,29.17,outbound
+2020-10-28,Eastern,Ohio Valley,123,22.76,22.76,30.08,33.33,outbound
+2020-10-28,Eastern,Metropo,197,42.64,50.76,55.33,56.85,outbound
+2020-10-28,Eastern,South Jersey,37417,98.26,99.69,99.7,99.79,outbound
+2020-10-28,Eastern,Tennessee,24,58.33,70.83,79.17,79.17,outbound
+2020-10-28,Eastern,Western New York,120,6.67,6.67,6.67,6.67,outbound
+2020-10-28,Eastern,Western Pennsylvania,7547,97.67,97.67,97.92,98.21,outbound
+2020-10-28,Great Lakes,Central Illinois,98,3.06,4.08,27.55,27.55,outbound
+2020-10-28,Great Lakes,Chicago,6,66.67,83.33,100,100,outbound
+2020-10-28,Great Lakes,Detroit,47,63.83,70.21,95.74,97.87,outbound
+2020-10-28,Great Lakes,Gateway,91,56.04,69.23,82.42,82.42,outbound
+2020-10-28,Great Lakes,Greater Indiana,75,74.67,80,81.33,82.67,outbound
+2020-10-28,Great Lakes,Greater Michigan,713,1.82,2.38,17.53,94.53,outbound
+2020-10-28,Great Lakes,Lakeland,48,14.58,16.67,16.67,16.67,outbound
+2020-10-28,Northeast,Albany,9,66.67,66.67,66.67,77.78,outbound
+2020-10-28,Northeast,Caribbean,0,NA,NA,NA,NA,outbound
+2020-10-28,Northeast,Connecticut Valley,34,41.18,41.18,41.18,41.18,outbound
+2020-10-28,Northeast,Greater Boston,62,27.42,27.42,32.26,32.26,outbound
+2020-10-28,Northeast,Long Island,3,100,100,100,100,outbound
+2020-10-28,Northeast,New York,42,83.33,83.33,100,100,outbound
+2020-10-28,Northeast,Northern New England,51,3.92,5.88,5.88,5.88,outbound
+2020-10-28,Northeast,Northern New Jersey,659597,99.37,99.37,99.96,99.99,outbound
+2020-10-28,Northeast,Triboro,33,90.91,90.91,93.94,93.94,outbound
+2020-10-28,Northeast,Westchester,32,25,25,28.13,31.25,outbound
+2020-10-28,Pacific,Bay-Valley,8,12.5,25,25,25,outbound
+2020-10-28,Pacific,Honolulu,4,50,75,100,100,outbound
+2020-10-28,Pacific,Los Angeles,694,16.43,16.86,20.46,99.42,outbound
+2020-10-28,Pacific,Sacramento,106,85.85,85.85,94.34,95.28,outbound
+2020-10-28,Pacific,San Diego,11408,99.88,99.89,99.95,99.95,outbound
+2020-10-28,Pacific,San Francisco,5,0,20,80,80,outbound
+2020-10-28,Pacific,Santa Ana,3901,99.15,99.21,99.49,99.62,outbound
+2020-10-28,Pacific,Sierra Coastal,1352,99.11,99.19,99.26,99.41,outbound
+2020-10-28,Southern,Alabama,64,18.75,23.44,23.44,23.44,outbound
+2020-10-28,Southern,Arkansas,4,0,0,0,25,outbound
+2020-10-28,Southern,Dallas,58,6.9,6.9,13.79,13.79,outbound
+2020-10-28,Southern,Ft. Worth,54,0,0,1.85,1.85,outbound
+2020-10-28,Southern,Gulf Atlantic,409,15.89,16.87,17.6,18.83,outbound
+2020-10-28,Southern,Houston,7,14.29,28.57,85.71,85.71,outbound
+2020-10-28,Southern,Louisiana,5,100,100,100,100,outbound
+2020-10-28,Southern,Mississippi,4,50,75,100,100,outbound
+2020-10-28,Southern,Oklahoma,2,50,50,100,100,outbound
+2020-10-28,Southern,Rio Grande,142,4.23,5.63,8.45,14.08,outbound
+2020-10-28,Southern,South Florida,147,24.49,24.49,25.17,25.85,outbound
+2020-10-28,Southern,Suncoast,14527,89.55,89.81,90,90.18,outbound
+2020-10-28,Western,Alaska,4,50,50,75,100,outbound
+2020-10-28,Western,Arizona,21294,88.64,88.98,95.74,96.39,outbound
+2020-10-28,Western,Central Plains,17,17.65,17.65,41.18,41.18,outbound
+2020-10-28,Western,Colorado/Wyoming,1518,0.4,0.72,82.21,86.82,outbound
+2020-10-28,Western,Dakotas,22,4.55,9.09,22.73,27.27,outbound
+2020-10-28,Western,Hawkeye,5,40,40,40,40,outbound
+2020-10-28,Western,Mid-Americas,26,69.23,69.23,84.62,84.62,outbound
+2020-10-28,Western,Nevada Sierra,104,18.27,19.23,25,29.81,outbound
+2020-10-28,Western,Northland,559,0.36,93.74,95.53,95.71,outbound
+2020-10-28,Western,Portland,53,15.09,15.09,32.08,33.96,outbound
+2020-10-28,Western,Salt Lake City,3767,97.61,97.64,98.19,98.3,outbound
+2020-10-28,Western,Seattle,321,0.62,1.87,36.14,37.07,outbound
+2020-10-29,Metro,Atlanta,2233,2.24,2.24,2.55,2.73,outbound
+2020-10-29,Metro,Baltimore,1981,46.09,46.09,97.78,97.78,outbound
+2020-10-29,Metro,Capital,91,36.26,36.26,52.75,56.04,outbound
+2020-10-29,Metro,Greater S Carolina,45,62.22,62.22,82.22,91.11,outbound
+2020-10-29,Metro,Greensboro,967,88.93,88.93,96.69,96.9,outbound
+2020-10-29,Metro,Mid-Carolinas,290,14.83,14.83,22.07,22.41,outbound
+2020-10-29,Metro,Norther Virginia,119,19.33,19.33,19.33,21.85,outbound
+2020-10-29,Metro,Richmond,30,83.33,83.33,86.67,90,outbound
+2020-10-29,Eastern,Appalachian,24,79.17,83.33,83.33,83.33,outbound
+2020-10-29,Eastern,Central Pennsylvania,39,46.15,53.85,56.41,64.1,outbound
+2020-10-29,Eastern,Kentuckiana,68,22.06,23.53,26.47,26.47,outbound
+2020-10-29,Eastern,Norther Ohio,566,86.57,87.81,88.34,90.11,outbound
+2020-10-29,Eastern,Ohio Valley,1821,95.44,95.44,95.55,96.21,outbound
+2020-10-29,Eastern,Philadelphia Metropo,2352,99.19,99.32,99.57,99.83,outbound
+2020-10-29,Eastern,South Jersey,296941,99.71,99.71,99.97,99.97,outbound
+2020-10-29,Eastern,Tennessee,173,23.7,23.7,25.43,26.01,outbound
+2020-10-29,Eastern,Western New York,27,66.67,70.37,70.37,70.37,outbound
+2020-10-29,Eastern,Western Pennsylvania,8433,99.41,99.57,99.58,99.64,outbound
+2020-10-29,Great Lakes,Central Illinois,1301,98.92,98.92,98.92,99.31,outbound
+2020-10-29,Great Lakes,Chicago,60,80,85,86.67,90,outbound
+2020-10-29,Great Lakes,Detroit,95,95.79,95.79,98.95,98.95,outbound
+2020-10-29,Great Lakes,Gateway,177,60.45,71.19,73.45,89.27,outbound
+2020-10-29,Great Lakes,Greater Indiana,61,75.41,80.33,93.44,96.72,outbound
+2020-10-29,Great Lakes,Michigan,1864,97.64,97.64,97.64,97.96,outbound
+2020-10-29,Great Lakes,Lakeland,61,90.16,90.16,93.44,96.72,outbound
+2020-10-29,Northeast,Albany,14,78.57,78.57,78.57,78.57,outbound
+2020-10-29,Northeast,Caribbean,NA,NA,NA,NA,NA,outbound
+2020-10-29,Northeast,Connecticut Valley,47,42.55,42.55,51.06,55.32,outbound
+2020-10-29,Northeast,Greater Boston,199,22.61,22.61,24.12,24.62,outbound
+2020-10-29,Northeast,Long Island,23,95.65,95.65,100,100,outbound
+2020-10-29,Northeast,New York,68,79.41,80.88,89.71,89.71,outbound
+2020-10-29,Northeast,Northern New England,34,64.71,64.71,79.41,79.41,outbound
+2020-10-29,Northeast,Northern New Jersey,101853,86.3,99.49,99.49,99.95,outbound
+2020-10-29,Northeast,Triboro,25,92,92,92,96,outbound
+2020-10-29,Northeast,Westchester,23,82.61,82.61,82.61,82.61,outbound
+2020-10-29,Pacific,Bay-Valley,37,59.46,59.46,70.27,94.59,outbound
+2020-10-29,Pacific,Honolulu,31,64.52,87.1,90.32,96.77,outbound
+2020-10-29,Pacific,Los Angeles,92,54.35,56.52,57.61,59.78,outbound
+2020-10-29,Pacific,Sacramento,434,97,97,97,98.39,outbound
+2020-10-29,Pacific,San Diego,869,98.5,98.5,98.73,99.19,outbound
+2020-10-29,Pacific,San Francisco,38,65.79,65.79,78.95,89.47,outbound
+2020-10-29,Pacific,Santa Ana,3480,99.22,99.28,99.54,99.83,outbound
+2020-10-29,Pacific,Sierra Coastal,100,35,35,39,46,outbound
+2020-10-29,Southern,Alabama,39,66.67,66.67,66.67,66.67,outbound
+2020-10-29,Southern,Arkansas,35,85.71,85.71,94.29,94.29,outbound
+2020-10-29,Southern,Dallas,29,55.17,65.52,75.86,75.86,outbound
+2020-10-29,Southern,Ft. Worth,1056,99.34,99.43,99.43,99.62,outbound
+2020-10-29,Southern,Gulf Atlantic,99,33.33,33.33,34.34,37.37,outbound
+2020-10-29,Southern,Houston,52,84.62,84.62,96.15,100,outbound
+2020-10-29,Southern,Louisiana,10,90,90,90,90,outbound
+2020-10-29,Southern,Mississippi,5,80,80,80,80,outbound
+2020-10-29,Southern,Oklahoma,12,75,91.67,91.67,100,outbound
+2020-10-29,Southern,Rio Grande,63,90.48,90.48,93.65,95.24,outbound
+2020-10-29,Southern,South Florida,30,56.67,66.67,70,76.67,outbound
+2020-10-29,Southern,Suncoast,1969,25.9,38.45,39.36,41.04,outbound
+2020-10-29,Western,Alaska,5,80,80,80,100,outbound
+2020-10-29,Western,Arizona,18240,88.14,90.77,95.26,96.47,outbound
+2020-10-29,Western,Central Plains,57,29.82,29.82,35.09,40.35,outbound
+2020-10-29,Western,Colorado/Wyoming,1126,53.73,53.91,54.53,62.43,outbound
+2020-10-29,Western,Dakotas,31,35.48,45.16,70.97,80.65,outbound
+2020-10-29,Western,Hawkeye,15,60,73.33,73.33,86.67,outbound
+2020-10-29,Western,Mid-Americas,19,68.42,73.68,73.68,89.47,outbound
+2020-10-29,Western,Nevada Sierra,117,25.64,27.35,35.04,49.57,outbound
+2020-10-29,Western,Northland,55,45.45,47.27,76.36,80,outbound
+2020-10-29,Western,Portland,74,28.38,28.38,31.08,37.84,outbound
+2020-10-29,Western,Salt Lake City,8549,98.54,98.58,98.78,98.87,outbound
+2020-10-29,Western,Seattle,203,11.82,11.82,11.82,13.79,outbound
+2020-10-30,Metro,Atlanta,673,3.42,3.42,3.42,3.86,outbound
+2020-10-30,Metro,Baltimore,288,2.43,11.11,11.11,88.19,outbound
+2020-10-30,Metro,Capital,43,23.26,37.21,37.21,51.16,outbound
+2020-10-30,Metro,Greater S Carolina,79,17.72,24.05,24.05,34.18,outbound
+2020-10-30,Metro,Greensboro,3148,0.83,96.86,96.89,97.14,outbound
+2020-10-30,Metro,Mid-Carolinas,65,15.38,21.54,21.54,29.23,outbound
+2020-10-30,Metro,Norther Virginia,17,88.24,88.24,88.24,88.24,outbound
+2020-10-30,Metro,Richmond,36,88.89,94.44,94.44,94.44,outbound
+2020-10-30,Eastern,Appalachian,57,21.05,24.56,24.56,24.56,outbound
+2020-10-30,Eastern,Central Pennsylvania,2945,0.85,99.63,99.63,99.63,outbound
+2020-10-30,Eastern,Kentuckiana,18,66.67,72.22,72.22,72.22,outbound
+2020-10-30,Eastern,Norther Ohio,3678,16.48,99.1,99.54,99.56,outbound
+2020-10-30,Eastern,Ohio Valley,151,27.81,78.81,78.81,78.81,outbound
+2020-10-30,Eastern,Philadelphia Metropo,4629,98.88,99.4,99.4,99.65,outbound
+2020-10-30,Eastern,South Jersey,258,35.27,50.39,50.39,99.22,outbound
+2020-10-30,Eastern,Tennessee,62,79.03,85.48,87.1,87.1,outbound
+2020-10-30,Eastern,York,14,100,100,100,100,outbound
+2020-10-30,Eastern,Western Pennsylvania,14446,99.22,99.29,99.46,99.46,outbound
+2020-10-30,Great Lakes,Central Illinois,1000,73.7,97.2,97.2,97.4,outbound
+2020-10-30,Great Lakes,Chicago,21,85.71,95.24,95.24,95.24,outbound
+2020-10-30,Great Lakes,Detroit,59,77.97,88.14,88.14,93.22,outbound
+2020-10-30,Great Lakes,Gateway,549,93.26,95.45,95.81,95.99,outbound
+2020-10-30,Great Lakes,Greater Indiana,62,20.97,20.97,20.97,24.19,outbound
+2020-10-30,Great Lakes,Greater Michigan,588,97.28,98.64,98.64,98.64,outbound
+2020-10-30,Great Lakes,Lakeland,19,73.68,73.68,73.68,73.68,outbound
+2020-10-30,Northeast,Albany,25,88,96,96,96,outbound
+2020-10-30,Northeast,Caribbean,7,85.71,85.71,85.71,85.71,outbound
+2020-10-30,Northeast,Connecticut Valley,20,85,100,100,100,outbound
+2020-10-30,Northeast,Greater Boston,42,78.57,88.1,88.1,88.1,outbound
+2020-10-30,Northeast,Long Island,6,100,100,100,100,outbound
+2020-10-30,Northeast,New York,37,94.59,97.3,97.3,97.3,outbound
+2020-10-30,Northeast,Northern New England,25,44,48,48,48,outbound
+2020-10-30,Northeast,Northern New Jersey,167939,95.65,96.4,97.19,97.19,outbound
+2020-10-30,Northeast,Triboro,27,70.37,74.07,74.07,74.07,outbound
+2020-10-30,Northeast,Westchester,14,78.57,85.71,85.71,85.71,outbound
+2020-10-30,Pacific,Bay-Valley,74,90.54,90.54,90.54,90.54,outbound
+2020-10-30,Pacific,Honolulu,19,94.74,94.74,94.74,100,outbound
+2020-10-30,Pacific,Los Angeles,100,93,93,93,93,outbound
+2020-10-30,Pacific,Sacramento,57,31.58,31.58,31.58,31.58,outbound
+2020-10-30,Pacific,San Diego,4477,99.17,99.31,99.31,99.31,outbound
+2020-10-30,Pacific,San Francisco,35,97.14,97.14,97.14,100,outbound
+2020-10-30,Pacific,Santa Ana,2860,98.32,98.53,98.53,98.53,outbound
+2020-10-30,Pacific,Sierra Coastal,61,42.62,42.62,45.9,47.54,outbound
+2020-10-30,Southern,Alabama,48,18.75,18.75,18.75,18.75,outbound
+2020-10-30,Southern,Arkansas,7,85.71,85.71,85.71,85.71,outbound
+2020-10-30,Southern,Dallas,16,87.5,93.75,93.75,93.75,outbound
+2020-10-30,Southern,Ft. Worth,22,77.27,86.36,86.36,90.91,outbound
+2020-10-30,Southern,Gulf Atlantic,78,34.62,42.31,42.31,42.31,outbound
+2020-10-30,Southern,Houston,45,35.56,37.78,37.78,37.78,outbound
+2020-10-30,Southern,Louisiana,20,70,80,80,100,outbound
+2020-10-30,Southern,Mississippi,3,66.67,66.67,66.67,66.67,outbound
+2020-10-30,Southern,Oklahoma,32,90.63,93.75,93.75,96.88,outbound
+2020-10-30,Southern,Rio Grande,32,84.38,87.5,87.5,87.5,outbound
+2020-10-30,Southern,South Florida,10,60,90,90,90,outbound
+2020-10-30,Southern,Suncoast,6688,89.98,90.25,90.43,90.61,outbound
+2020-10-30,Western,Alaska,13,38.46,38.46,69.23,84.62,outbound
+2020-10-30,Western,Arizona,10571,89.84,93.17,93.4,95.03,outbound
+2020-10-30,Western,Central Plains,37,70.27,70.27,70.27,70.27,outbound
+2020-10-30,Western,Colorado/Wyoming,2967,92.35,94.78,94.81,95.18,outbound
+2020-10-30,Western,Dakotas,25,84,84,84,92,outbound
+2020-10-30,Western,Hawkeye,26,96.15,100,100,100,outbound
+2020-10-30,Western,Mid-Americas,59,94.92,96.61,96.61,98.31,outbound
+2020-10-30,Western,Nevada Sierra,133,32.33,36.09,36.84,39.85,outbound
+2020-10-30,Western,Northland,37,37.84,40.54,40.54,72.97,outbound
+2020-10-30,Western,Portland,57,78.95,85.96,85.96,85.96,outbound
+2020-10-30,Western,Salt Lake City,615,85.85,86.34,86.67,86.67,outbound
+2020-10-30,Western,Seattle,189,34.39,35.45,36.51,38.1,outbound
+2020-10-31,Metro,Atlanta,1393,0.79,1.36,1.44,1.44,outbound
+2020-10-31,Metro,Baltimore,51,5.88,13.73,37.25,37.25,outbound
+2020-10-31,Metro,Capital,27,40.74,59.26,59.26,59.26,outbound
+2020-10-31,Metro,Greater S Carolina,36,25,30.56,58.33,58.33,outbound
+2020-10-31,Metro,Greensboro,1277,0.55,1.57,98.83,98.83,outbound
+2020-10-31,Metro,Mid-Carolinas,16,56.25,62.5,68.75,68.75,outbound
+2020-10-31,Metro,Norther Virginia,28,57.14,85.71,92.86,92.86,outbound
+2020-10-31,Metro,Richmond,145,6.9,13.79,13.79,13.79,outbound
+2020-10-31,Eastern,Appalachian,11,81.82,90.91,90.91,90.91,outbound
+2020-10-31,Eastern,Central Pennsylvania,190,3.16,9.47,97.37,97.37,outbound
+2020-10-31,Eastern,Kentuckiana,9,66.67,77.78,77.78,77.78,outbound
+2020-10-31,Eastern,Norther Ohio,310,6.45,15.81,85.16,85.16,outbound
+2020-10-31,Eastern,Ohio Valley,31,61.29,93.55,96.77,96.77,outbound
+2020-10-31,Eastern,Philadelphia Metropo,69,49.28,60.87,78.26,82.61,outbound
+2020-10-31,Eastern,South Jersey,24304,98.23,98.25,99.82,99.82,outbound
+2020-10-31,Eastern,Tennessee,15,26.67,53.33,53.33,53.33,outbound
+2020-10-31,Eastern,Western New York,1,100,100,100,100,outbound
+2020-10-31,Eastern,Western Pennsylvania,3206,97.16,98.13,98.69,98.69,outbound
+2020-10-31,Great Lakes,Central Illinois,72,0,81.94,98.61,98.61,outbound
+2020-10-31,Great Lakes,Chicago,20,95,95,95,95,outbound
+2020-10-31,Great Lakes,Detroit,76,67.11,72.37,75,76.32,outbound
+2020-10-31,Great Lakes,Gateway,27,11.11,37.04,62.96,74.07,outbound
+2020-10-31,Great Lakes,Greater Indiana,38,76.32,92.11,92.11,92.11,outbound
+2020-10-31,Great Lakes,Greater Michigan,854,77.75,93.79,94.03,94.03,outbound
+2020-10-31,Great Lakes,Lakeland,14,71.43,85.71,92.86,92.86,outbound
+2020-10-31,Northeast,Albany,82,6.1,6.1,7.32,7.32,outbound
+2020-10-31,Northeast,Valley,11,63.64,81.82,100,100,outbound
+2020-10-31,Northeast,Greater Boston,40,35,50,52.5,52.5,outbound
+2020-10-31,Northeast,Long Island,52,1.92,1.92,7.69,7.69,outbound
+2020-10-31,Northeast,New York,13,61.54,92.31,100,100,outbound
+2020-10-31,Northeast,Northern New England,16,6.25,6.25,6.25,6.25,outbound
+2020-10-31,Northeast,Northern New Jersey,1046,13.77,15.11,39.48,74.67,outbound
+2020-10-31,Northeast,Triboro,23,69.57,82.61,95.65,95.65,outbound
+2020-10-31,Northeast,Westchester,28,21.43,25,25,25,outbound
+2020-10-31,Pacific,Bay-Valley,16,68.75,81.25,81.25,81.25,outbound
+2020-10-31,Pacific,Honolulu,23,95.65,100,100,100,outbound
+2020-10-31,Pacific,Los Angeles,14,64.29,78.57,78.57,78.57,outbound
+2020-10-31,Pacific,Sacramento,38,18.42,55.26,55.26,55.26,outbound
+2020-10-31,Pacific,San Diego,1258,98.41,99.28,99.6,99.6,outbound
+2020-10-31,Pacific,San Francisco,14,85.71,85.71,92.86,92.86,outbound
+2020-10-31,Pacific,Santa Ana,4800,99.56,99.73,99.83,99.83,outbound
+2020-10-31,Pacific,Sierra Coastal,8,37.5,62.5,62.5,87.5,outbound
+2020-10-31,Southern,Alabama,129,5.43,7.75,7.75,7.75,outbound
+2020-10-31,Southern,Arkansas,9,33.33,55.56,55.56,55.56,outbound
+2020-10-31,Southern,Dallas,88,6.82,62.5,63.64,63.64,outbound
+2020-10-31,Southern,Ft. Worth,29,62.07,100,100,100,outbound
+2020-10-31,Southern,Gulf Atlantic,44,50,59.09,61.36,61.36,outbound
+2020-10-31,Southern,Houston,58,3.45,8.62,8.62,8.62,outbound
+2020-10-31,Southern,Louisiana,21,14.29,14.29,14.29,14.29,outbound
+2020-10-31,Southern,Mississippi,35,0,2.86,2.86,2.86,outbound
+2020-10-31,Southern,Oklahoma,44,13.64,15.91,18.18,18.18,outbound
+2020-10-31,Southern,Rio Grande,20,60,85,95,95,outbound
+2020-10-31,Southern,South Florida,18,66.67,77.78,83.33,83.33,outbound
+2020-10-31,Southern,Suncoast,1056,15.53,18.66,20.64,21.02,outbound
+2020-10-31,Western,Alaska,4,0,50,75,100,outbound
+2020-10-31,Western,Arizona,3648,63.9,86.6,89.5,89.53,outbound
+2020-10-31,Western,Central Plains,19,31.58,47.37,47.37,47.37,outbound
+2020-10-31,Western,Colorado/Wyoming,768,11.07,85.55,92.84,92.84,outbound
+2020-10-31,Western,Dakotas,7,57.14,100,100,100,outbound
+2020-10-31,Western,Hawkeye,4,75,100,100,100,outbound
+2020-10-31,Western,Mid-Americas,9,33.33,55.56,55.56,55.56,outbound
+2020-10-31,Western,Nevada Sierra,29,27.59,41.38,41.38,41.38,outbound
+2020-10-31,Western,Northland,16,12.5,43.75,56.25,56.25,outbound
+2020-10-31,Western,Portland,58,20.69,27.59,27.59,27.59,outbound
+2020-10-31,Western,Salt Lake City,139,19.42,30.94,41.01,41.01,outbound
+2020-10-31,Western,Seattle,118,12.71,21.19,22.03,22.88,outbound
+2020-11-02,Metro,Atlanta,106,10.38,12.26,17.92,17.92,outbound
+2020-11-02,Metro,Baltimore,474,1.9,5.06,5.91,71.73,outbound
+2020-11-02,Metro,Capital,47,6.38,42.55,68.09,68.09,outbound
+2020-11-02,Metro,Carolina,46,41.3,50,67.39,73.91,outbound
+2020-11-02,Metro,Greensboro,127,6.3,14.96,23.62,77.17,outbound
+2020-11-02,Metro,Mid-Carolinas,36,33.33,52.78,63.89,63.89,outbound
+2020-11-02,Metro,Norther Virginia,25,24,80,92,92,outbound
+2020-11-02,Metro,Richmond,144,22.22,22.22,25.69,29.17,outbound
+2020-11-02,Eastern,Appalachian,30,20,26.67,90,90,outbound
+2020-11-02,Eastern,Central Pennsylvania,1529,96.93,98.5,98.63,99.41,outbound
+2020-11-02,Eastern,Kentuckiana,27,25.93,33.33,33.33,33.33,outbound
+2020-11-02,Eastern,Norther Ohio,1786,86.51,88.35,89.98,92.33,outbound
+2020-11-02,Eastern,Ohio Valley,51,3.92,68.63,70.59,96.08,outbound
+2020-11-02,Eastern,Philadelphia Metropo,1046,5.54,9.56,98.37,98.47,outbound
+2020-11-02,Eastern,South Jersey,9664,97.44,99.11,99.17,99.21,outbound
+2020-11-02,Eastern,Tennessee,123,18.7,21.95,26.83,27.64,outbound
+2020-11-02,Eastern,Western New York,16,43.75,87.5,87.5,87.5,outbound
+2020-11-02,Eastern,Western Pennsylvania,996,33.94,70.08,86.85,87.25,outbound
+2020-11-02,Great Lakes,Central Illinois,389,0,0,81.49,86.12,outbound
+2020-11-02,Great Lakes,Chicago,42,19.05,40.48,45.24,45.24,outbound
+2020-11-02,Great Lakes,Detroit,310,2.26,4.19,4.84,4.84,outbound
+2020-11-02,Great Lakes,Gateway,54,14.81,18.52,38.89,42.59,outbound
+2020-11-02,Great Lakes,Greater Indiana,42,40.48,45.24,47.62,47.62,outbound
+2020-11-02,Great Lakes,Greater Michigan,1199,2.17,2.5,2.75,2.75,outbound
+2020-11-02,Great Lakes,Lakeland,110,0.91,1.82,2.73,4.55,outbound
+2020-11-02,Northeast,Albany,43,18.6,23.26,25.58,25.58,outbound
+2020-11-02,Northeast,Caribbean,140,0.71,1.43,1.43,3.57,outbound
+2020-11-02,Northeast,Connecticut Valley,16,62.5,62.5,68.75,68.75,outbound
+2020-11-02,Northeast,Greater Boston,29,62.07,75.86,82.76,96.55,outbound
+2020-11-02,Northeast,Long Island,11,54.55,63.64,63.64,63.64,outbound
+2020-11-02,Northeast,New York,215,13.02,13.95,13.95,14.42,outbound
+2020-11-02,Northeast,Northern New England,54,9.26,11.11,11.11,11.11,outbound
+2020-11-02,Northeast,Northern New Jersey,29908,98.07,98.08,98.12,98.46,outbound
+2020-11-02,Northeast,Triboro,66,21.21,21.21,21.21,21.21,outbound
+2020-11-02,Northeast,Westchester,25,8,8,8,8,outbound
+2020-11-02,Pacific,Bay-Valley,44,20.45,22.73,22.73,25,outbound
+2020-11-02,Pacific,Honolulu,48,16.67,18.75,18.75,27.08,outbound
+2020-11-02,Pacific,Los Angeles,14,42.86,64.29,71.43,71.43,outbound
+2020-11-02,Pacific,Sacramento,75,12,14.67,80,81.33,outbound
+2020-11-02,Pacific,San Diego,91,9.89,12.09,14.29,19.78,outbound
+2020-11-02,Pacific,San Francisco,29,37.93,37.93,37.93,37.93,outbound
+2020-11-02,Pacific,Santa Ana,362,42.27,43.65,44.2,44.48,outbound
+2020-11-02,Pacific,Sierra Coastal,13,7.69,15.38,38.46,38.46,outbound
+2020-11-02,Southern,Alabama,973,0.21,97.94,98.77,98.87,outbound
+2020-11-02,Southern,Arkansas,6,16.67,33.33,66.67,66.67,outbound
+2020-11-02,Southern,Dallas,16,25,37.5,75,75,outbound
+2020-11-02,Southern,Ft. Worth,4,75,100,100,100,outbound
+2020-11-02,Southern,Gulf Atlantic,38,31.58,42.11,55.26,57.89,outbound
+2020-11-02,Southern,Houston,9,0,11.11,22.22,33.33,outbound
+2020-11-02,Southern,Louisiana,29,20.69,24.14,55.17,55.17,outbound
+2020-11-02,Southern,Mississippi,26,3.85,11.54,23.08,23.08,outbound
+2020-11-02,Southern,Oklahoma,11,54.55,72.73,100,100,outbound
+2020-11-02,Southern,Rio Grande,23,47.83,60.87,91.3,91.3,outbound
+2020-11-02,Southern,South Florida,149,15.44,17.45,18.12,19.46,outbound
+2020-11-02,Southern,Suncoast,1723,26.7,27.16,27.8,28.15,outbound
+2020-11-02,Western,Alaska,6,66.67,66.67,100,100,outbound
+2020-11-02,Western,Arizona,1636,13.88,44.56,85.88,87.78,outbound
+2020-11-02,Western,Central Plains,4,0,0,25,25,outbound
+2020-11-02,Western,Colorado/Wyoming,741,2.43,58.16,85.96,86.1,outbound
+2020-11-02,Western,Dakotas,10,40,50,80,80,outbound
+2020-11-02,Western,Hawkeye,7,57.14,57.14,85.71,85.71,outbound
+2020-11-02,Western,Mid-Americas,974,0.62,98.46,98.87,98.97,outbound
+2020-11-02,Western,Nevada Sierra,36,5.56,16.67,16.67,19.44,outbound
+2020-11-02,Western,Northland,21,9.52,19.05,28.57,28.57,outbound
+2020-11-02,Western,Portland,85,9.41,12.94,17.65,17.65,outbound
+2020-11-02,Western,Salt Lake City,96,4.17,4.17,7.29,9.38,outbound
+2020-11-02,Western,Seattle,169,10.65,13.61,20.71,23.08,outbound
+2020-11-03,Metro,Atlanta,4,0,100,100,100,outbound
+2020-11-03,Metro,Baltimore,17,0,5.88,47.06,64.71,outbound
+2020-11-03,Metro,Capital,1,0,0,100,100,outbound
+2020-11-03,Metro,Greater S Carolina,12,8.33,91.67,91.67,100,outbound
+2020-11-03,Metro,Greensboro,16,0,25,25,25,outbound
+2020-11-03,Metro,Mid-Carolinas,12,0,75,100,100,outbound
+2020-11-03,Metro,Norther Virginia,1,0,100,100,100,outbound
+2020-11-03,Metro,Richmond,4,25,50,50,100,outbound
+2020-11-03,Eastern,Appalachian,5,0,80,100,100,outbound
+2020-11-03,Eastern,Central Pennsylvania,19,0,63.16,100,100,outbound
+2020-11-03,Eastern,Kentuckiana,2,0,100,100,100,outbound
+2020-11-03,Eastern,Norther Ohio,25,0,68,84,88,outbound
+2020-11-03,Eastern,Ohio Valley,4,0,25,50,50,outbound
+2020-11-03,Eastern,Metropo,16,0,68.75,68.75,100,outbound
+2020-11-03,Eastern,South Jersey,8,75,100,100,100,outbound
+2020-11-03,Eastern,Tennessee,2,0,100,100,100,outbound
+2020-11-03,Eastern,Western New York,NA,NA,NA,NA,NA,outbound
+2020-11-03,Eastern,Western Pennsylvania,135,0,75.56,88.15,95.56,outbound
+2020-11-03,Great Lakes,Central Illinois,7,0,14.29,28.57,100,outbound
+2020-11-03,Great Lakes,Chicago,5,0,0,100,100,outbound
+2020-11-03,Great Lakes,Detroit,7,0,71.43,100,100,outbound
+2020-11-03,Great Lakes,Gateway,1,0,100,100,100,outbound
+2020-11-03,Great Lakes,Greater Indiana,5,80,100,100,100,outbound
+2020-11-03,Great Lakes,Greater Michigan,3,0,100,100,100,outbound
+2020-11-03,Great Lakes,Lakeland,0,NA,NA,NA,NA,outbound
+2020-11-03,Northeast,Albany,NA,NA,NA,NA,NA,outbound
+2020-11-03,Northeast,Caribbean,NA,NA,NA,NA,NA,outbound
+2020-11-03,Northeast,Connecticut Valley,NA,NA,NA,NA,NA,outbound
+2020-11-03,Northeast,Greater Boston,2,0,50,100,100,outbound
+2020-11-03,Northeast,Jersey,73,16.44,72.6,72.6,75.34,outbound
+2020-11-03,Northeast,Triboro,NA,NA,NA,NA,NA,outbound
+2020-11-03,Northeast,Westchester,0,NA,NA,NA,NA,outbound
+2020-11-03,Pacific,Bay-Valley,0,NA,NA,NA,NA,outbound
+2020-11-03,Pacific,Honolulu,NA,NA,NA,NA,NA,outbound
+2020-11-03,Pacific,Los Angeles,0,NA,NA,NA,NA,outbound
+2020-11-03,Pacific,Sacramento,64,0,0,0,100,outbound
+2020-11-03,Pacific,San Diego,4,0,25,75,75,outbound
+2020-11-03,Pacific,San Francisco,0,NA,NA,NA,NA,outbound
+2020-11-03,Pacific,Santa Ana,4,75,75,75,100,outbound
+2020-11-03,Pacific,Sierra Coastal,0,NA,NA,NA,NA,outbound
+2020-11-03,Southern,Alabama,12,0,16.67,83.33,100,outbound
+2020-11-03,Southern,Arkansas,NA,NA,NA,NA,NA,outbound
+2020-11-03,Southern,Dallas,8,0,100,100,100,outbound
+2020-11-03,Southern,Ft. Worth,2,0,100,100,100,outbound
+2020-11-03,Southern,Gulf Atlantic,17,5.88,76.47,100,100,outbound
+2020-11-03,Southern,Houston,12,0,91.67,91.67,91.67,outbound
+2020-11-03,Southern,Louisiana,7,0,85.71,100,100,outbound
+2020-11-03,Southern,Mississippi,2,0,0,50,100,outbound
+2020-11-03,Southern,Rio Grande,2,0,100,100,100,outbound
+2020-11-03,Southern,South Florida,8,50,100,100,100,outbound
+2020-11-03,Southern,Suncoast,11,27.27,63.64,72.73,100,outbound
+2020-11-03,Western,Alaska,NA,NA,NA,NA,NA,outbound
+2020-11-03,Western,Arizona,132,0,7.58,31.82,97.73,outbound
+2020-11-03,Western,Central Plains,NA,NA,NA,NA,NA,outbound
+2020-11-03,Western,Colorado/Wyoming,26,11.54,38.46,61.54,100,outbound
+2020-11-03,Western,Dakotas,NA,NA,NA,NA,NA,outbound
+2020-11-03,Western,Hawkeye,NA,NA,NA,NA,NA,outbound
+2020-11-03,Western,Mid-Americas,9,11.11,11.11,100,100,outbound
+2020-11-03,Western,Nevada Sierra,NA,NA,NA,NA,NA,outbound
+2020-11-03,Western,Northland,0,NA,NA,NA,NA,outbound
+2020-11-03,Western,Portland,1,0,0,100,100,outbound
+2020-11-03,Western,Salt Lake City,9,0,44.44,44.44,77.78,outbound
+2020-11-03,Western,Seattle,2,50,100,100,100,outbound
+2020-10-24,Metro,Atlanta,250,24.4,48.4,50,58.4,non_ballot_elec
+2020-10-24,Metro,Baltimore,1047,70.58,71.25,71.54,81.95,non_ballot_elec
+2020-10-24,Metro,Capital,1182,91.03,93.49,93.99,94.16,non_ballot_elec
+2020-10-24,Metro,Greater S Carolina,311,12.54,21.54,21.54,70.42,non_ballot_elec
+2020-10-24,Metro,Greensboro,4995,89.51,95.28,95.84,96.16,non_ballot_elec
+2020-10-24,Metro,Mid-Carolinas,5016,61.96,94.14,95.59,98.5,non_ballot_elec
+2020-10-24,Metro,Norther Virginia,584,95.03,95.38,96.23,96.23,non_ballot_elec
+2020-10-24,Metro,Richmond,142,92.25,93.66,94.37,95.77,non_ballot_elec
+2020-10-24,Eastern,Appalachian,107,68.22,69.16,69.16,97.2,non_ballot_elec
+2020-10-24,Eastern,Central Pennsylvania,34954,0.77,76.54,99.83,99.89,non_ballot_elec
+2020-10-24,Eastern,Kentuckiana,97348,99.89,99.89,99.9,99.94,non_ballot_elec
+2020-10-24,Eastern,Norther Ohio,79622,71.23,75.08,97.46,97.61,non_ballot_elec
+2020-10-24,Eastern,Ohio Valley,168990,89.4,92.36,99.78,99.86,non_ballot_elec
+2020-10-24,Eastern,Philadelphia Metropo,5692,4.64,7.36,92.71,95.45,non_ballot_elec
+2020-10-24,Eastern,South Jersey,49733,47.19,99.84,99.84,99.95,non_ballot_elec
+2020-10-24,Eastern,Tennessee,522,12.64,14.94,16.67,22.8,non_ballot_elec
+2020-10-24,Eastern,Western New York,63,23.81,23.81,23.81,74.6,non_ballot_elec
+2020-10-24,Eastern,Pennsylvania,247,36.03,39.27,52.63,97.17,non_ballot_elec
+2020-10-24,Great Lakes,Central Illinois,49876,99.08,99.09,99.87,99.97,non_ballot_elec
+2020-10-24,Great Lakes,Chicago,563,10.3,10.48,51.69,54.35,non_ballot_elec
+2020-10-24,Great Lakes,Detroit,25222,0.09,5.3,99.24,99.24,non_ballot_elec
+2020-10-24,Great Lakes,Gateway,292400,99.99,99.99,99.99,99.99,non_ballot_elec
+2020-10-24,Great Lakes,Greater Indiana,106015,96.32,97.35,98.4,98.41,non_ballot_elec
+2020-10-24,Great Lakes,Greater Michigan,10062,97.25,97.27,97.4,97.99,non_ballot_elec
+2020-10-24,Great Lakes,Lakeland,107975,99.08,99.09,99.54,99.61,non_ballot_elec
+2020-10-24,Northeast,Albany,306,79.41,79.74,80.07,95.75,non_ballot_elec
+2020-10-24,Northeast,Caribbean,5,80,80,100,100,non_ballot_elec
+2020-10-24,Northeast,Connecticut Valley,694,79.54,81.56,81.56,81.56,non_ballot_elec
+2020-10-24,Northeast,Greater Boston,3835,99.45,99.79,99.92,99.92,non_ballot_elec
+2020-10-24,Northeast,Long Island,146,92.47,93.84,95.21,95.21,non_ballot_elec
+2020-10-24,Northeast,New York,86,34.88,60.47,77.91,77.91,non_ballot_elec
+2020-10-24,Northeast,Northern New England,2806,98.93,99.39,99.39,99.82,non_ballot_elec
+2020-10-24,Northeast,Northern New Jersey,14511,99.85,99.92,99.94,99.97,non_ballot_elec
+2020-10-24,Northeast,Triboro,668,11.38,11.68,11.68,31.74,non_ballot_elec
+2020-10-24,Northeast,Westchester,266,93.98,94.36,94.36,95.11,non_ballot_elec
+2020-10-24,Pacific,Bay-Valley,146,91.1,91.78,91.78,91.78,non_ballot_elec
+2020-10-24,Pacific,Honolulu,98,62.24,63.27,95.92,95.92,non_ballot_elec
+2020-10-24,Pacific,Los Angeles,1217722,99.89,99.92,100,100,non_ballot_elec
+2020-10-24,Pacific,Sacramento,43150,97.92,97.95,98.27,98.35,non_ballot_elec
+2020-10-24,Pacific,San Diego,9788,98.3,98.39,99.04,99.38,non_ballot_elec
+2020-10-24,Pacific,San Francisco,4604,98.31,98.59,98.78,98.85,non_ballot_elec
+2020-10-24,Pacific,Santa Ana,248920,99.97,99.97,99.97,99.97,non_ballot_elec
+2020-10-24,Pacific,Sierra Coastal,690227,99.99,99.99,99.99,99.99,non_ballot_elec
+2020-10-24,Southern,Alabama,58,51.72,79.31,84.48,84.48,non_ballot_elec
+2020-10-24,Southern,Arkansas,25,68,84,84,92,non_ballot_elec
+2020-10-24,Southern,Dallas,579,36.1,84.46,96.55,99.14,non_ballot_elec
+2020-10-24,Southern,Ft. Worth,189,31.22,50.79,93.12,99.47,non_ballot_elec
+2020-10-24,Southern,Gulf Atlantic,60586,99.1,99.13,99.26,99.32,non_ballot_elec
+2020-10-24,Southern,Houston,355,5.63,98.03,98.03,98.59,non_ballot_elec
+2020-10-24,Southern,Louisiana,385,8.05,70.91,77.14,86.23,non_ballot_elec
+2020-10-24,Southern,Mississippi,264,9.85,97.35,97.73,97.73,non_ballot_elec
+2020-10-24,Southern,Oklahoma,89247,99.94,99.94,99.97,100,non_ballot_elec
+2020-10-24,Southern,Rio Grande,22199,99.55,99.72,99.83,99.92,non_ballot_elec
+2020-10-24,Southern,South Florida,8346,51.99,98,99.32,99.39,non_ballot_elec
+2020-10-24,Southern,Suncoast,21658,85.74,86.65,89.68,97.27,non_ballot_elec
+2020-10-24,Western,Alaska,59,64.41,66.1,66.1,66.1,non_ballot_elec
+2020-10-24,Western,Arizona,169358,99.86,99.93,99.94,99.97,non_ballot_elec
+2020-10-24,Western,Central Plains,55946,99.99,99.99,99.99,99.99,non_ballot_elec
+2020-10-24,Western,Colorado/Wyoming,1124,91.9,92.62,94.75,97.33,non_ballot_elec
+2020-10-24,Western,Dakotas,17020,99.75,99.88,99.93,99.99,non_ballot_elec
+2020-10-24,Western,Hawkeye,14585,99.46,99.54,99.86,99.86,non_ballot_elec
+2020-10-24,Western,Mid-Americas,123102,99.99,99.99,99.99,99.99,non_ballot_elec
+2020-10-24,Western,Nevada Sierra,49827,99.78,99.8,99.97,99.99,non_ballot_elec
+2020-10-24,Western,Northland,122783,96.61,99.02,99.82,99.86,non_ballot_elec
+2020-10-24,Western,Portland,3526,62.2,62.79,62.82,63.19,non_ballot_elec
+2020-10-24,Western,Salt Lake City,1113,94.79,95.15,95.51,98.56,non_ballot_elec
+2020-10-24,Western,Seattle,380,32.89,38.95,41.84,43.68,non_ballot_elec
+2020-10-26,Metro,Atlanta,4691,42.25,98.47,98.7,98.89,non_ballot_elec
+2020-10-26,Metro,Baltimore,1968,38.16,50.41,95.07,95.07,non_ballot_elec
+2020-10-26,Metro,Capital,351,89.46,95.44,98.29,98.29,non_ballot_elec
+2020-10-26,Metro,Greater S Carolina,1379,83.47,84.26,86.51,86.73,non_ballot_elec
+2020-10-26,Metro,Greensboro,8166,74.9,96.56,97.93,98.3,non_ballot_elec
+2020-10-26,Metro,Mid-Carolinas,9803,35.1,98,99.12,99.5,non_ballot_elec
+2020-10-26,Metro,Norther Virginia,509,77.21,81.14,82.71,82.71,non_ballot_elec
+2020-10-26,Metro,Richmond,1010,96.83,99.01,99.11,99.21,non_ballot_elec
+2020-10-26,Eastern,Appalachian,1094,96.71,98.35,98.35,98.54,non_ballot_elec
+2020-10-26,Eastern,Central Pennsylvania,19952,1.61,5.48,92.21,99.22,non_ballot_elec
+2020-10-26,Eastern,Kentuckiana,27025,99.77,99.81,99.82,99.82,non_ballot_elec
+2020-10-26,Eastern,Norther Ohio,16013,40.15,69.83,71.36,95.06,non_ballot_elec
+2020-10-26,Eastern,Ohio Valley,116617,52.91,88.45,88.6,99.81,non_ballot_elec
+2020-10-26,Eastern,Philadelphia Metropo,405104,0.07,99.09,99.16,99.98,non_ballot_elec
+2020-10-26,Eastern,South Jersey,435304,3.25,95.95,100,100,non_ballot_elec
+2020-10-26,Eastern,Tennessee,14826,96.77,96.99,97.03,97.5,non_ballot_elec
+2020-10-26,Eastern,Western New York,577,84.23,85.96,85.96,86.31,non_ballot_elec
+2020-10-26,Eastern,Western Pennsylvania,1714,83.43,83.96,98.83,99.3,non_ballot_elec
+2020-10-26,Great Lakes,Central Illinois,55350,99.8,99.86,99.87,99.97,non_ballot_elec
+2020-10-26,Great Lakes,Chicago,1676,79.3,79.53,79.77,82.22,non_ballot_elec
+2020-10-26,Great Lakes,Detroit,4095,24.35,24.79,25.57,96.95,non_ballot_elec
+2020-10-26,Great Lakes,Gateway,164195,99.9,99.92,99.92,99.97,non_ballot_elec
+2020-10-26,Great Lakes,Greater Indiana,75057,94.74,94.93,99.05,99.29,non_ballot_elec
+2020-10-26,Great Lakes,Greater Michigan,134125,99.88,99.89,99.91,99.97,non_ballot_elec
+2020-10-26,Great Lakes,Lakeland,30948,90.89,99.68,99.71,99.9,non_ballot_elec
+2020-10-26,Northeast,Albany,236,64.83,77.97,77.97,78.81,non_ballot_elec
+2020-10-26,Northeast,Caribbean,301,98.67,98.67,98.67,98.67,non_ballot_elec
+2020-10-26,Northeast,Connecticut Valley,1034,76.79,83.27,83.37,83.37,non_ballot_elec
+2020-10-26,Northeast,Greater Boston,1498,78.3,80.91,81.11,84.05,non_ballot_elec
+2020-10-26,Northeast,Long Island,384,77.86,83.33,84.38,84.38,non_ballot_elec
+2020-10-26,Northeast,New York,1216,27.3,98.11,98.6,98.6,non_ballot_elec
+2020-10-26,Northeast,Northern New England,1804,94.4,95.95,96.01,96.06,non_ballot_elec
+2020-10-26,Northeast,Northern New Jersey,1692,11.17,15.43,99.11,99.17,non_ballot_elec
+2020-10-26,Northeast,Triboro,2662,14.31,40.05,40.2,40.53,non_ballot_elec
+2020-10-26,Northeast,Westchester,252,80.16,85.71,86.11,97.22,non_ballot_elec
+2020-10-26,Pacific,Bay-Valley,3425,98.01,98.63,98.69,98.8,non_ballot_elec
+2020-10-26,Pacific,Honolulu,1174,99.49,99.83,99.91,99.91,non_ballot_elec
+2020-10-26,Pacific,Los Angeles,26764,92.45,92.55,95.77,99.62,non_ballot_elec
+2020-10-26,Pacific,Sacramento,11734,82.15,82.8,82.93,87.22,non_ballot_elec
+2020-10-26,Pacific,San Diego,21624,99.34,99.46,99.59,99.83,non_ballot_elec
+2020-10-26,Pacific,San Francisco,32917,99.54,99.59,99.62,99.77,non_ballot_elec
+2020-10-26,Pacific,Santa Ana,23518,99.34,99.38,99.49,99.92,non_ballot_elec
+2020-10-26,Pacific,Sierra Coastal,25779,94.81,94.98,95,95.02,non_ballot_elec
+2020-10-26,Southern,Alabama,853,85.35,86.52,86.87,86.87,non_ballot_elec
+2020-10-26,Southern,Arkansas,756,98.28,99.21,99.21,99.34,non_ballot_elec
+2020-10-26,Southern,Dallas,1676,85.98,86.93,87.59,94.15,non_ballot_elec
+2020-10-26,Southern,Ft. Worth,2416,47.56,48.26,97.85,97.89,non_ballot_elec
+2020-10-26,Southern,Gulf Atlantic,10702,27.37,81.96,83.9,84.92,non_ballot_elec
+2020-10-26,Southern,Houston,2430,97.45,98.11,99.88,99.88,non_ballot_elec
+2020-10-26,Southern,Louisiana,1199,98.33,99.17,99.17,99.33,non_ballot_elec
+2020-10-26,Southern,Mississippi,582,82.13,84.02,90.03,90.55,non_ballot_elec
+2020-10-26,Southern,Oklahoma,5796,99.74,99.93,99.93,99.93,non_ballot_elec
+2020-10-26,Southern,Rio Grande,2948,92.88,94.03,94.81,99.42,non_ballot_elec
+2020-10-26,Southern,South Florida,20858,87.23,92.4,99.43,99.69,non_ballot_elec
+2020-10-26,Southern,Suncoast,59821,92.89,93.97,94.3,96.61,non_ballot_elec
+2020-10-26,Western,Alaska,21,66.67,66.67,80.95,80.95,non_ballot_elec
+2020-10-26,Western,Arizona,22566,92.14,92.39,92.74,93.42,non_ballot_elec
+2020-10-26,Western,Central Plains,38476,99.69,99.73,99.73,99.86,non_ballot_elec
+2020-10-26,Western,Colorado/Wyoming,2162,67.95,96.76,97.27,97.64,non_ballot_elec
+2020-10-26,Western,Dakotas,924,93.61,96.97,96.97,97.08,non_ballot_elec
+2020-10-26,Western,Hawkeye,31978,99.83,99.89,99.9,99.99,non_ballot_elec
+2020-10-26,Western,Mid-Americas,154189,99.88,99.89,99.89,99.94,non_ballot_elec
+2020-10-26,Western,Nevada Sierra,4869,98.58,98.69,99.4,99.42,non_ballot_elec
+2020-10-26,Western,Northland,202124,97.58,99.46,99.85,99.98,non_ballot_elec
+2020-10-26,Western,Portland,7773,61.84,73.68,73.94,74.96,non_ballot_elec
+2020-10-26,Western,Salt Lake City,3087,94.56,95.43,95.5,96.83,non_ballot_elec
+2020-10-26,Western,Seattle,3711,97.17,97.98,97.98,98.84,non_ballot_elec
+2020-10-27,Metro,Atlanta,497,9.26,83.7,92.35,92.96,non_ballot_elec
+2020-10-27,Metro,Baltimore,2670,2.62,7.12,13.71,98.31,non_ballot_elec
+2020-10-27,Metro,Capital,380,11.05,95.26,95.79,95.79,non_ballot_elec
+2020-10-27,Metro,Carolina,220,10.91,81.36,81.82,81.82,non_ballot_elec
+2020-10-27,Metro,Greensboro,1533,42.92,58.25,89.43,91.39,non_ballot_elec
+2020-10-27,Metro,Mid-Carolinas,3678,77.13,87.66,91.9,99.67,non_ballot_elec
+2020-10-27,Metro,Norther Virginia,961,83.14,98.86,98.86,98.86,non_ballot_elec
+2020-10-27,Metro,Richmond,404,88.61,99.75,99.75,99.75,non_ballot_elec
+2020-10-27,Eastern,Appalachian,72,44.44,95.83,98.61,98.61,non_ballot_elec
+2020-10-27,Eastern,Central Pennsylvania,1063,1.79,75.92,82.69,88.52,non_ballot_elec
+2020-10-27,Eastern,Kentuckiana,6567,86.97,99.98,99.98,100,non_ballot_elec
+2020-10-27,Eastern,Norther Ohio,60024,0.34,95.29,96.69,96.91,non_ballot_elec
+2020-10-27,Eastern,Ohio Valley,2107,26.86,30.09,75.46,92.55,non_ballot_elec
+2020-10-27,Eastern,Philadelphia Metropo,135644,0,1.83,99.47,99.47,non_ballot_elec
+2020-10-27,Eastern,South Jersey,134256,0.12,1.12,99.93,99.95,non_ballot_elec
+2020-10-27,Eastern,Tennessee,2617,72.33,98.93,98.93,98.93,non_ballot_elec
+2020-10-27,Eastern,Western New York,31,77.42,100,100,100,non_ballot_elec
+2020-10-27,Eastern,Western Pennsylvania,247,95.14,99.19,99.6,99.6,non_ballot_elec
+2020-10-27,Great Lakes,Central Illinois,12197,98.67,99.79,99.79,99.79,non_ballot_elec
+2020-10-27,Great Lakes,Chicago,121,16.53,41.32,42.15,42.15,non_ballot_elec
+2020-10-27,Great Lakes,Detroit,874,0.8,62.47,62.81,63.5,non_ballot_elec
+2020-10-27,Great Lakes,Gateway,1394,22.88,96.63,96.84,99.07,non_ballot_elec
+2020-10-27,Great Lakes,Greater Indiana,8906,14.42,92.56,92.56,98.66,non_ballot_elec
+2020-10-27,Great Lakes,Greater Michigan,16923,0.1,99.89,99.89,99.89,non_ballot_elec
+2020-10-27,Great Lakes,Lakeland,1350,3.04,85.7,96.81,96.81,non_ballot_elec
+2020-10-27,Northeast,Albany,38,47.37,100,100,100,non_ballot_elec
+2020-10-27,Northeast,Caribbean,3,66.67,100,100,100,non_ballot_elec
+2020-10-27,Northeast,Connecticut Valley,225,8,52.44,56.44,57.78,non_ballot_elec
+2020-10-27,Northeast,Greater Boston,1700,92.18,99.12,99.12,99.82,non_ballot_elec
+2020-10-27,Northeast,Long Island,174,5.75,98.28,98.28,98.28,non_ballot_elec
+2020-10-27,Northeast,New York,1985,98.24,99.65,99.75,99.75,non_ballot_elec
+2020-10-27,Northeast,Northern New England,806,1.99,62.78,62.9,99.88,non_ballot_elec
+2020-10-27,Northeast,Northern New Jersey,1618,0.62,98.89,98.95,99.88,non_ballot_elec
+2020-10-27,Northeast,Triboro,1457,86.55,87.44,87.85,87.92,non_ballot_elec
+2020-10-27,Northeast,Westchester,112,81.25,98.21,100,100,non_ballot_elec
+2020-10-27,Pacific,Bay-Valley,1020,94.31,94.9,95,100,non_ballot_elec
+2020-10-27,Pacific,Honolulu,100,97,98,98,98,non_ballot_elec
+2020-10-27,Pacific,Los Angeles,15724,73.42,98.16,98.17,98.31,non_ballot_elec
+2020-10-27,Pacific,Sacramento,6421,34.68,73.32,73.32,74.13,non_ballot_elec
+2020-10-27,Pacific,San Diego,40972,98.05,99.51,99.51,99.82,non_ballot_elec
+2020-10-27,Pacific,San Francisco,3281,96.37,97.93,98.05,99.21,non_ballot_elec
+2020-10-27,Pacific,Santa Ana,18786,96.49,99.78,99.81,99.87,non_ballot_elec
+2020-10-27,Pacific,Sierra Coastal,4970,93.36,98.69,98.73,99.4,non_ballot_elec
+2020-10-27,Southern,Alabama,414,3.86,96.38,96.38,96.38,non_ballot_elec
+2020-10-27,Southern,Arkansas,132,1.52,48.48,48.48,48.48,non_ballot_elec
+2020-10-27,Southern,Dallas,1033,0.87,98.16,98.26,98.26,non_ballot_elec
+2020-10-27,Southern,Ft. Worth,436,2.52,98.17,98.17,99.08,non_ballot_elec
+2020-10-27,Southern,Gulf Atlantic,15984,87.22,90.69,99.25,99.32,non_ballot_elec
+2020-10-27,Southern,Houston,75,9.33,81.33,84,92,non_ballot_elec
+2020-10-27,Southern,Louisiana,118,11.02,50.85,51.69,51.69,non_ballot_elec
+2020-10-27,Southern,Mississippi,111,3.6,72.97,73.87,73.87,non_ballot_elec
+2020-10-27,Southern,Oklahoma,65,4.62,92.31,93.85,93.85,non_ballot_elec
+2020-10-27,Southern,Rio Grande,643,5.75,93,93.16,93.62,non_ballot_elec
+2020-10-27,Southern,South Florida,17458,95.13,96.98,97.57,99.75,non_ballot_elec
+2020-10-27,Southern,Suncoast,2758,8.59,54.21,55.15,70.38,non_ballot_elec
+2020-10-27,Western,Alaska,87,49.43,79.31,88.51,97.7,non_ballot_elec
+2020-10-27,Western,Arizona,1085,46.18,88.57,89.59,90.23,non_ballot_elec
+2020-10-27,Western,Central Plains,12057,96.92,99.93,99.93,99.93,non_ballot_elec
+2020-10-27,Western,Colorado/Wyoming,1499,1.67,68.31,95.26,96.13,non_ballot_elec
+2020-10-27,Western,Dakotas,1516,2.77,98.02,98.22,98.22,non_ballot_elec
+2020-10-27,Western,Hawkeye,29832,0.09,100,100,100,non_ballot_elec
+2020-10-27,Western,Mid-Americas,31761,0.08,99.94,99.94,99.94,non_ballot_elec
+2020-10-27,Western,Nevada Sierra,381,33.07,59.32,59.58,66.67,non_ballot_elec
+2020-10-27,Western,Northland,114634,82.91,99.78,99.9,99.93,non_ballot_elec
+2020-10-27,Western,Portland,3564,44.36,78.11,78.23,78.79,non_ballot_elec
+2020-10-27,Western,Salt Lake City,157,47.13,56.05,56.69,68.79,non_ballot_elec
+2020-10-27,Western,Seattle,432,28.47,93.52,94.21,94.68,non_ballot_elec
+2020-10-28,Metro,Atlanta,1008,21.43,28.17,39.09,90.08,non_ballot_elec
+2020-10-28,Metro,Baltimore,909,2.42,54.13,54.68,58.42,non_ballot_elec
+2020-10-28,Metro,Capital,623,41.89,74,75.6,75.76,non_ballot_elec
+2020-10-28,Metro,Greater S Carolina,325,6.77,35.08,91.38,91.69,non_ballot_elec
+2020-10-28,Metro,Greensboro,32780,97.46,97.64,98.97,99.44,non_ballot_elec
+2020-10-28,Metro,Mid-Carolinas,4045,12.39,85.36,91.94,95.01,non_ballot_elec
+2020-10-28,Metro,Norther Virginia,55,27.27,41.82,43.64,43.64,non_ballot_elec
+2020-10-28,Metro,Richmond,344,6.4,94.19,96.22,96.8,non_ballot_elec
+2020-10-28,Eastern,Appalachian,53,22.64,30.19,69.81,69.81,non_ballot_elec
+2020-10-28,Eastern,Central Pennsylvania,5152,82.01,82.05,89.52,91.67,non_ballot_elec
+2020-10-28,Eastern,Kentuckiana,8951,28.41,97.72,99.9,99.9,non_ballot_elec
+2020-10-28,Eastern,Norther Ohio,62354,1.41,1.56,97.74,97.79,non_ballot_elec
+2020-10-28,Eastern,Ohio Valley,3305,87.62,90.2,90.89,94.58,non_ballot_elec
+2020-10-28,Eastern,Metropo,5936,0.29,0.44,4.01,99.83,non_ballot_elec
+2020-10-28,Eastern,South Jersey,7304,0.18,0.33,21.99,99.58,non_ballot_elec
+2020-10-28,Eastern,Tennessee,6914,7.41,96.75,99.83,99.91,non_ballot_elec
+2020-10-28,Eastern,Western New York,261,1.15,92.72,96.17,96.17,non_ballot_elec
+2020-10-28,Eastern,Western Pennsylvania,34,23.53,70.59,82.35,85.29,non_ballot_elec
+2020-10-28,Great Lakes,Central Illinois,2347,76.1,89.77,99.62,99.66,non_ballot_elec
+2020-10-28,Great Lakes,Chicago,1984,42.84,90.02,92.19,92.19,non_ballot_elec
+2020-10-28,Great Lakes,Detroit,251881,99.89,99.9,99.93,99.93,non_ballot_elec
+2020-10-28,Great Lakes,Gateway,2824,39.59,43.59,99.15,99.15,non_ballot_elec
+2020-10-28,Great Lakes,Greater Indiana,56994,92,92.73,99.26,99.27,non_ballot_elec
+2020-10-28,Great Lakes,Greater Michigan,1737,43.75,43.87,97.7,98.68,non_ballot_elec
+2020-10-28,Great Lakes,Lakeland,2630,69.47,86.69,97.11,99.54,non_ballot_elec
+2020-10-28,Northeast,Albany,181,1.66,96.13,97.24,97.24,non_ballot_elec
+2020-10-28,Northeast,Caribbean,3,0,0,33.33,33.33,non_ballot_elec
+2020-10-28,Northeast,Connecticut Valley,789,71.99,91.51,91.51,91.76,non_ballot_elec
+2020-10-28,Northeast,Greater Boston,83,28.92,73.49,78.31,81.93,non_ballot_elec
+2020-10-28,Northeast,Long Island,8,12.5,12.5,37.5,37.5,non_ballot_elec
+2020-10-28,Northeast,New York,41,7.32,9.76,34.15,36.59,non_ballot_elec
+2020-10-28,Northeast,Northern New England,205,5.37,5.37,93.66,95.61,non_ballot_elec
+2020-10-28,Northeast,Northern New Jersey,1681,0.06,22.13,98.27,98.69,non_ballot_elec
+2020-10-28,Northeast,Triboro,377,2.65,50.4,54.11,54.64,non_ballot_elec
+2020-10-28,Northeast,Westchester,443,16.48,73.36,98.42,98.65,non_ballot_elec
+2020-10-28,Pacific,Bay-Valley,156,93.59,96.79,96.79,96.79,non_ballot_elec
+2020-10-28,Pacific,Honolulu,55,92.73,96.36,98.18,98.18,non_ballot_elec
+2020-10-28,Pacific,Los Angeles,47317,81.18,93.54,98.19,98.19,non_ballot_elec
+2020-10-28,Pacific,Sacramento,726,46.83,48.07,86.91,87.6,non_ballot_elec
+2020-10-28,Pacific,San Diego,6663,98.44,98.68,99.95,99.95,non_ballot_elec
+2020-10-28,Pacific,San Francisco,8237,98.58,99.2,99.59,99.62,non_ballot_elec
+2020-10-28,Pacific,Santa Ana,6354,93.3,97.83,99.91,99.95,non_ballot_elec
+2020-10-28,Pacific,Sierra Coastal,31578,98.93,99.69,99.86,99.88,non_ballot_elec
+2020-10-28,Southern,Alabama,104,7.69,9.62,77.88,77.88,non_ballot_elec
+2020-10-28,Southern,Arkansas,11,72.73,72.73,90.91,90.91,non_ballot_elec
+2020-10-28,Southern,Dallas,29,27.59,37.93,48.28,79.31,non_ballot_elec
+2020-10-28,Southern,Ft. Worth,86,8.14,10.47,62.79,68.6,non_ballot_elec
+2020-10-28,Southern,Gulf Atlantic,18090,97.16,98.41,98.72,99.3,non_ballot_elec
+2020-10-28,Southern,Houston,37,45.95,54.05,67.57,70.27,non_ballot_elec
+2020-10-28,Southern,Louisiana,34,38.24,55.88,67.65,73.53,non_ballot_elec
+2020-10-28,Southern,Mississippi,55,0,1.82,83.64,83.64,non_ballot_elec
+2020-10-28,Southern,Oklahoma,36,19.44,19.44,91.67,91.67,non_ballot_elec
+2020-10-28,Southern,Rio Grande,186,8.6,14.52,83.87,85.48,non_ballot_elec
+2020-10-28,Southern,South Florida,24496,97.47,97.6,99.62,99.64,non_ballot_elec
+2020-10-28,Southern,Suncoast,23820,90.26,93.58,96.9,97.37,non_ballot_elec
+2020-10-28,Western,Alaska,12343,99.89,99.97,100,100,non_ballot_elec
+2020-10-28,Western,Arizona,1483,1.15,68.17,85.03,92.99,non_ballot_elec
+2020-10-28,Western,Central Plains,5170,51.51,98.7,99.48,99.54,non_ballot_elec
+2020-10-28,Western,Colorado/Wyoming,2250,43.82,44.49,98.89,99.16,non_ballot_elec
+2020-10-28,Western,Dakotas,770,74.29,80.65,98.83,98.83,non_ballot_elec
+2020-10-28,Western,Hawkeye,20909,0.28,0.32,99.98,99.99,non_ballot_elec
+2020-10-28,Western,Mid-Americas,3661,3.58,3.58,98.61,98.61,non_ballot_elec
+2020-10-28,Western,Nevada Sierra,507,64.1,65.68,96.65,97.04,non_ballot_elec
+2020-10-28,Western,Northland,32327,62.46,97.77,99.49,99.87,non_ballot_elec
+2020-10-28,Western,Portland,4019,69.64,69.64,72.41,72.75,non_ballot_elec
+2020-10-28,Western,Salt Lake City,31,48.39,48.39,90.32,93.55,non_ballot_elec
+2020-10-28,Western,Seattle,139,31.65,33.09,41.73,41.73,non_ballot_elec
+2020-10-29,Metro,Atlanta,1391,10.35,10.57,44.28,49.68,non_ballot_elec
+2020-10-29,Metro,Baltimore,434,8.53,8.53,12.9,14.75,non_ballot_elec
+2020-10-29,Metro,Capital,149,87.25,87.92,89.93,91.28,non_ballot_elec
+2020-10-29,Metro,Greater S Carolina,257,24.12,25.29,56.03,95.72,non_ballot_elec
+2020-10-29,Metro,Greensboro,16924,78.99,96.99,98.81,99.61,non_ballot_elec
+2020-10-29,Metro,Mid-Carolinas,7781,86.12,86.2,98.07,99.41,non_ballot_elec
+2020-10-29,Metro,Virginia,103,82.52,82.52,83.5,83.5,non_ballot_elec
+2020-10-29,Metro,Richmond,786,18.45,18.45,20.48,98.09,non_ballot_elec
+2020-10-29,Eastern,Appalachian,1161,69.77,69.77,70.2,99.05,non_ballot_elec
+2020-10-29,Eastern,Central Pennsylvania,404,22.03,33.42,33.91,39.11,non_ballot_elec
+2020-10-29,Eastern,Kentuckiana,1434,77.55,81.17,89.12,99.86,non_ballot_elec
+2020-10-29,Eastern,Norther Ohio,21084,0.71,2.28,3.26,90.61,non_ballot_elec
+2020-10-29,Eastern,Ohio Valley,2220,86.71,86.98,90.95,91.98,non_ballot_elec
+2020-10-29,Eastern,Philadelphia Metropo,33953,0.03,0.03,0.03,3.12,non_ballot_elec
+2020-10-29,Eastern,South Jersey,33540,0.12,0.13,0.13,1.16,non_ballot_elec
+2020-10-29,Eastern,Tennessee,630,62.38,62.38,79.21,99.84,non_ballot_elec
+2020-10-29,Eastern,Western New York,675,99.11,99.11,99.56,100,non_ballot_elec
+2020-10-29,Eastern,Western Pennsylvania,371,96.77,96.77,98.92,100,non_ballot_elec
+2020-10-29,Great Lakes,Central Illinois,1749,79.02,79.02,92.8,98.28,non_ballot_elec
+2020-10-29,Great Lakes,Chicago,1078,85.81,85.81,91,91.47,non_ballot_elec
+2020-10-29,Great Lakes,Detroit,151137,99.83,99.83,99.84,99.89,non_ballot_elec
+2020-10-29,Great Lakes,Gateway,2092,61.9,61.9,90.34,99.33,non_ballot_elec
+2020-10-29,Great Lakes,Greater Indiana,25726,83.92,87.6,88.17,98.57,non_ballot_elec
+2020-10-29,Great Lakes,Michigan,1017,27.43,27.43,27.63,99.31,non_ballot_elec
+2020-10-29,Great Lakes,Lakeland,94418,94.13,94.13,94.2,99.98,non_ballot_elec
+2020-10-29,Northeast,Albany,876,84.02,97.95,99.2,99.54,non_ballot_elec
+2020-10-29,Northeast,Caribbean,5,80,80,100,100,non_ballot_elec
+2020-10-29,Northeast,Connecticut Valley,303,64.03,67.66,81.52,82.84,non_ballot_elec
+2020-10-29,Northeast,Greater Boston,509,52.06,91.16,97.64,98.62,non_ballot_elec
+2020-10-29,Northeast,Long Island,113,60.18,60.18,71.68,73.45,non_ballot_elec
+2020-10-29,Northeast,New York,266,87.59,87.59,92.48,93.98,non_ballot_elec
+2020-10-29,Northeast,Northern New England,547,26.33,96.53,98.35,99.27,non_ballot_elec
+2020-10-29,Northeast,Northern New Jersey,158,49.37,49.37,67.09,96.2,non_ballot_elec
+2020-10-29,Northeast,Triboro,582,96.05,96.05,96.22,96.22,non_ballot_elec
+2020-10-29,Northeast,Westchester,659,96.66,96.66,97.88,99.09,non_ballot_elec
+2020-10-29,Pacific,Bay-Valley,3600,99.39,99.58,99.81,99.86,non_ballot_elec
+2020-10-29,Pacific,Honolulu,141,95.74,96.45,97.87,100,non_ballot_elec
+2020-10-29,Pacific,Los Angeles,12951,61.72,71.55,86.54,93.86,non_ballot_elec
+2020-10-29,Pacific,Sacramento,2537,93.14,95.47,96.02,97.36,non_ballot_elec
+2020-10-29,Pacific,San Diego,2502,25.14,63.55,64.35,99.72,non_ballot_elec
+2020-10-29,Pacific,San Francisco,9160,98.89,99.27,99.45,99.74,non_ballot_elec
+2020-10-29,Pacific,Santa Ana,2115,53.52,54.14,56.78,99.62,non_ballot_elec
+2020-10-29,Pacific,Sierra Coastal,3073,90.66,94.6,98.18,99.67,non_ballot_elec
+2020-10-29,Southern,Alabama,275,6.55,6.55,78.55,89.45,non_ballot_elec
+2020-10-29,Southern,Arkansas,156,83.33,83.33,90.38,99.36,non_ballot_elec
+2020-10-29,Southern,Dallas,122,35.25,35.25,95.08,95.9,non_ballot_elec
+2020-10-29,Southern,Ft. Worth,363,95.87,96.14,97.8,98.07,non_ballot_elec
+2020-10-29,Southern,Gulf Atlantic,7546,93.69,97.68,97.99,98.38,non_ballot_elec
+2020-10-29,Southern,Houston,129,31.78,31.78,46.51,47.29,non_ballot_elec
+2020-10-29,Southern,Louisiana,163,93.87,93.87,97.55,97.55,non_ballot_elec
+2020-10-29,Southern,Mississippi,67,23.88,23.88,28.36,80.6,non_ballot_elec
+2020-10-29,Southern,Oklahoma,181,86.19,86.19,92.82,100,non_ballot_elec
+2020-10-29,Southern,Rio Grande,1316,63.22,63.22,65.12,98.86,non_ballot_elec
+2020-10-29,Southern,South Florida,41816,97,98.81,98.88,99.89,non_ballot_elec
+2020-10-29,Southern,Suncoast,5588,76.36,83.93,84.68,85.18,non_ballot_elec
+2020-10-29,Western,Alaska,17819,99.8,99.92,99.99,99.99,non_ballot_elec
+2020-10-29,Western,Arizona,1131,38.46,38.55,45.09,88.51,non_ballot_elec
+2020-10-29,Western,Central Plains,1591,56,57.26,62.29,99.87,non_ballot_elec
+2020-10-29,Western,Colorado/Wyoming,1992,69.18,95.38,95.63,97.84,non_ballot_elec
+2020-10-29,Western,Dakotas,1798,96.27,96.27,97.66,99.28,non_ballot_elec
+2020-10-29,Western,Hawkeye,1887,31.53,31.53,31.53,100,non_ballot_elec
+2020-10-29,Western,Mid-Americas,1411,16.37,16.37,18.28,100,non_ballot_elec
+2020-10-29,Western,Nevada Sierra,10216,99.08,99.52,99.68,99.98,non_ballot_elec
+2020-10-29,Western,Northland,17489,52.51,62,98.95,99.69,non_ballot_elec
+2020-10-29,Western,Portland,4000,84.28,84.43,84.9,85.05,non_ballot_elec
+2020-10-29,Western,Salt Lake City,1025,94.83,94.83,97.46,99.61,non_ballot_elec
+2020-10-29,Western,Seattle,610,86.89,86.89,91.64,92.62,non_ballot_elec
+2020-10-30,Metro,Atlanta,1195,60.33,63.6,66.03,86.36,non_ballot_elec
+2020-10-30,Metro,Baltimore,1182,10.24,10.41,10.49,12.44,non_ballot_elec
+2020-10-30,Metro,Capital,440,91.36,92.95,94.09,97.27,non_ballot_elec
+2020-10-30,Metro,Greater S Carolina,376,51.86,55.32,56.38,61.97,non_ballot_elec
+2020-10-30,Metro,Greensboro,12055,88.16,98.41,98.47,98.61,non_ballot_elec
+2020-10-30,Metro,Mid-Carolinas,5074,34.31,98.38,98.38,98.78,non_ballot_elec
+2020-10-30,Metro,Norther Virginia,326,94.48,96.32,96.32,99.69,non_ballot_elec
+2020-10-30,Metro,Richmond,453,78.81,83.44,83.44,85.21,non_ballot_elec
+2020-10-30,Eastern,Appalachian,570,96.49,96.49,96.49,98.25,non_ballot_elec
+2020-10-30,Eastern,Central Pennsylvania,129,26.36,48.06,49.61,49.61,non_ballot_elec
+2020-10-30,Eastern,Kentuckiana,1834,68.92,71.7,71.81,73.88,non_ballot_elec
+2020-10-30,Eastern,Norther Ohio,3345,19.67,20.6,22.69,27.35,non_ballot_elec
+2020-10-30,Eastern,Ohio Valley,839,77.35,79.5,79.74,88.56,non_ballot_elec
+2020-10-30,Eastern,Philadelphia Metropo,1669,13.18,13.18,13.18,13.42,non_ballot_elec
+2020-10-30,Eastern,South Jersey,1557,39.18,39.18,39.18,39.37,non_ballot_elec
+2020-10-30,Eastern,Tennessee,2214,74.07,89.61,91.64,99.05,non_ballot_elec
+2020-10-30,Eastern,York,81,37.04,38.27,38.27,41.98,non_ballot_elec
+2020-10-30,Eastern,Western Pennsylvania,985,98.68,98.78,98.78,99.09,non_ballot_elec
+2020-10-30,Great Lakes,Central Illinois,519,39.11,40.08,40.08,87.28,non_ballot_elec
+2020-10-30,Great Lakes,Chicago,384,69.01,69.27,69.27,69.53,non_ballot_elec
+2020-10-30,Great Lakes,Detroit,40857,9.27,99.38,99.38,99.65,non_ballot_elec
+2020-10-30,Great Lakes,Gateway,895,41.56,41.79,41.79,51.4,non_ballot_elec
+2020-10-30,Great Lakes,Greater Indiana,37096,93.08,94.24,94.43,94.63,non_ballot_elec
+2020-10-30,Great Lakes,Greater Michigan,1212,71.95,72.77,80.03,84.98,non_ballot_elec
+2020-10-30,Great Lakes,Lakeland,1785,77.09,79.33,79.33,91.32,non_ballot_elec
+2020-10-30,Northeast,Albany,267,25.09,25.47,34.46,53.56,non_ballot_elec
+2020-10-30,Northeast,Caribbean,113,99.12,99.12,99.12,99.12,non_ballot_elec
+2020-10-30,Northeast,Connecticut Valley,86,70.93,70.93,73.26,73.26,non_ballot_elec
+2020-10-30,Northeast,Greater Boston,2895,99.31,99.48,99.59,99.65,non_ballot_elec
+2020-10-30,Northeast,Long Island,303,42.24,42.24,42.24,74.92,non_ballot_elec
+2020-10-30,Northeast,New York,1174,99.06,99.49,99.49,99.49,non_ballot_elec
+2020-10-30,Northeast,Northern New England,2874,96.9,96.94,99.27,99.65,non_ballot_elec
+2020-10-30,Northeast,Northern New Jersey,9061,99.46,99.46,99.53,99.53,non_ballot_elec
+2020-10-30,Northeast,Triboro,1291,96.75,96.9,96.9,96.98,non_ballot_elec
+2020-10-30,Northeast,Westchester,74,93.24,95.95,97.3,97.3,non_ballot_elec
+2020-10-30,Pacific,Bay-Valley,970,97.01,97.73,98.04,99.38,non_ballot_elec
+2020-10-30,Pacific,Honolulu,58,96.55,96.55,96.55,98.28,non_ballot_elec
+2020-10-30,Pacific,Los Angeles,5714,47.16,47.32,56.28,84.7,non_ballot_elec
+2020-10-30,Pacific,Sacramento,1135,86.96,87.4,90.04,90.75,non_ballot_elec
+2020-10-30,Pacific,San Diego,1921,93.7,96.3,97.97,98.18,non_ballot_elec
+2020-10-30,Pacific,San Francisco,5737,98.01,99.37,99.6,99.69,non_ballot_elec
+2020-10-30,Pacific,Santa Ana,532,65.41,85.53,86.28,90.6,non_ballot_elec
+2020-10-30,Pacific,Sierra Coastal,2062,86.91,87.1,88.65,92.82,non_ballot_elec
+2020-10-30,Southern,Alabama,1019,87.44,87.44,87.44,98.43,non_ballot_elec
+2020-10-30,Southern,Arkansas,416,99.04,99.28,99.28,99.28,non_ballot_elec
+2020-10-30,Southern,Dallas,137,81.75,81.75,81.75,98.54,non_ballot_elec
+2020-10-30,Southern,Ft. Worth,9487,99.83,99.85,99.85,99.98,non_ballot_elec
+2020-10-30,Southern,Gulf Atlantic,4521,55.61,74.14,77.97,81.46,non_ballot_elec
+2020-10-30,Southern,Houston,95,84.21,84.21,84.21,84.21,non_ballot_elec
+2020-10-30,Southern,Louisiana,469,33.48,34.75,34.75,35.39,non_ballot_elec
+2020-10-30,Southern,Mississippi,495,82.42,82.63,92.32,98.18,non_ballot_elec
+2020-10-30,Southern,Oklahoma,789,97.85,97.97,97.97,98.1,non_ballot_elec
+2020-10-30,Southern,Rio Grande,593,90.56,92.58,92.58,96.29,non_ballot_elec
+2020-10-30,Southern,South Florida,7942,95.04,95.56,96.44,99.24,non_ballot_elec
+2020-10-30,Southern,Suncoast,3240,72.5,74.01,74.94,79.54,non_ballot_elec
+2020-10-30,Western,Alaska,3538,76.68,99.97,100,100,non_ballot_elec
+2020-10-30,Western,Arizona,10807,99.24,99.29,99.32,99.77,non_ballot_elec
+2020-10-30,Western,Central Plains,615,86.18,86.67,87.32,93.82,non_ballot_elec
+2020-10-30,Western,Colorado/Wyoming,1894,13.62,48.89,85.59,86.54,non_ballot_elec
+2020-10-30,Western,Dakotas,509,90.96,91.94,92.14,96.66,non_ballot_elec
+2020-10-30,Western,Hawkeye,2564,86.19,86.54,86.54,86.54,non_ballot_elec
+2020-10-30,Western,Mid-Americas,1378,63.13,63.13,63.13,63.5,non_ballot_elec
+2020-10-30,Western,Nevada Sierra,817,91.06,91.19,95.47,95.59,non_ballot_elec
+2020-10-30,Western,Northland,21228,80.16,94.44,96.82,99.67,non_ballot_elec
+2020-10-30,Western,Portland,1502,80.43,81.76,81.82,82.22,non_ballot_elec
+2020-10-30,Western,Salt Lake City,188,92.55,92.55,93.09,94.15,non_ballot_elec
+2020-10-30,Western,Seattle,3304,98.76,99.15,99.15,99.15,non_ballot_elec
+2020-10-31,Metro,Atlanta,3570,45.24,61.65,62.24,64.71,non_ballot_elec
+2020-10-31,Metro,Baltimore,1083,71.1,73.68,73.96,73.96,non_ballot_elec
+2020-10-31,Metro,Capital,1756,87.47,99.26,99.26,99.43,non_ballot_elec
+2020-10-31,Metro,Greater S Carolina,1925,46.86,91.95,92.1,92.21,non_ballot_elec
+2020-10-31,Metro,Greensboro,7013,84.67,90.42,97.02,97.29,non_ballot_elec
+2020-10-31,Metro,Mid-Carolinas,7436,45.02,53.42,94.47,94.51,non_ballot_elec
+2020-10-31,Metro,Norther Virginia,865,82.89,97.92,98.03,98.03,non_ballot_elec
+2020-10-31,Metro,Richmond,2349,95.06,98.64,98.64,98.64,non_ballot_elec
+2020-10-31,Eastern,Appalachian,1095,81.1,89.68,89.68,89.68,non_ballot_elec
+2020-10-31,Eastern,Central Pennsylvania,1284,13.01,89.41,89.49,89.49,non_ballot_elec
+2020-10-31,Eastern,Kentuckiana,3296,96.97,98.67,98.73,98.73,non_ballot_elec
+2020-10-31,Eastern,Norther Ohio,3803,57.67,81.09,83.36,85.83,non_ballot_elec
+2020-10-31,Eastern,Ohio Valley,3954,96.08,96.51,96.61,96.61,non_ballot_elec
+2020-10-31,Eastern,Philadelphia Metropo,17286,6.48,10.86,10.86,10.86,non_ballot_elec
+2020-10-31,Eastern,South Jersey,17982,12.49,13.55,13.55,13.55,non_ballot_elec
+2020-10-31,Eastern,Tennessee,3593,97.22,98,99.08,99.08,non_ballot_elec
+2020-10-31,Eastern,Western New York,85,27.06,84.71,84.71,84.71,non_ballot_elec
+2020-10-31,Eastern,Western Pennsylvania,2166,95.24,96.49,96.49,96.49,non_ballot_elec
+2020-10-31,Great Lakes,Central Illinois,2084,86.52,86.95,87.04,87.04,non_ballot_elec
+2020-10-31,Great Lakes,Chicago,1755,89.34,90.09,90.09,90.09,non_ballot_elec
+2020-10-31,Great Lakes,Detroit,51040,2.26,4.28,99.21,99.21,non_ballot_elec
+2020-10-31,Great Lakes,Gateway,5415,98.08,98.37,98.39,98.43,non_ballot_elec
+2020-10-31,Great Lakes,Greater Indiana,124476,89.7,99.24,99.29,99.67,non_ballot_elec
+2020-10-31,Great Lakes,Greater Michigan,1619,81.9,83.88,84.06,84.06,non_ballot_elec
+2020-10-31,Great Lakes,Lakeland,5749,73,79.91,96.94,96.94,non_ballot_elec
+2020-10-31,Northeast,Albany,168,91.07,95.24,95.83,96.43,non_ballot_elec
+2020-10-31,Northeast,Caribbean,15,93.33,100,100,100,non_ballot_elec
+2020-10-31,Northeast,Valley,1463,53.18,95.22,95.22,95.49,non_ballot_elec
+2020-10-31,Northeast,Greater Boston,1345,76.88,96.65,96.65,96.95,non_ballot_elec
+2020-10-31,Northeast,Long Island,785,31.97,99.87,99.87,99.87,non_ballot_elec
+2020-10-31,Northeast,New York,876,96.35,96.46,96.46,99.32,non_ballot_elec
+2020-10-31,Northeast,Northern New England,999,76.18,98.3,98.3,98.4,non_ballot_elec
+2020-10-31,Northeast,Northern New Jersey,10831,98.82,99,99,99.04,non_ballot_elec
+2020-10-31,Northeast,Triboro,861,97.33,98.14,98.14,99.19,non_ballot_elec
+2020-10-31,Northeast,Westchester,378,91.8,94.18,94.44,94.44,non_ballot_elec
+2020-10-31,Pacific,Bay-Valley,586,96.42,98.46,98.81,99.32,non_ballot_elec
+2020-10-31,Pacific,Honolulu,155,70.32,100,100,100,non_ballot_elec
+2020-10-31,Pacific,Los Angeles,5204,19.87,24.83,25.12,27.42,non_ballot_elec
+2020-10-31,Pacific,Sacramento,378,67.2,73.28,74.6,78.57,non_ballot_elec
+2020-10-31,Pacific,San Diego,693,79.94,96.39,96.97,98.41,non_ballot_elec
+2020-10-31,Pacific,San Francisco,4441,98.51,99.39,99.5,99.62,non_ballot_elec
+2020-10-31,Pacific,Santa Ana,373,63.81,77.75,80.16,82.84,non_ballot_elec
+2020-10-31,Pacific,Sierra Coastal,992,11.09,79.44,79.44,83.27,non_ballot_elec
+2020-10-31,Southern,Alabama,1313,86.06,87.81,87.81,87.81,non_ballot_elec
+2020-10-31,Southern,Arkansas,1027,98.44,99.9,99.9,99.9,non_ballot_elec
+2020-10-31,Southern,Dallas,1732,49.25,98.79,98.79,98.85,non_ballot_elec
+2020-10-31,Southern,Ft. Worth,752,50.53,99.87,99.87,99.87,non_ballot_elec
+2020-10-31,Southern,Gulf Atlantic,2911,31.78,91.41,94.16,94.47,non_ballot_elec
+2020-10-31,Southern,Houston,1131,61.89,98.67,98.67,98.67,non_ballot_elec
+2020-10-31,Southern,Louisiana,1633,71.34,94.06,94.06,94.06,non_ballot_elec
+2020-10-31,Southern,Mississippi,1164,98.02,99.83,99.83,99.91,non_ballot_elec
+2020-10-31,Southern,Oklahoma,2747,98.94,99.78,99.82,99.82,non_ballot_elec
+2020-10-31,Southern,Rio Grande,890,65.28,75.39,75.84,76.07,non_ballot_elec
+2020-10-31,Southern,South Florida,8253,92.43,98.85,98.92,99.38,non_ballot_elec
+2020-10-31,Southern,Suncoast,7207,75.55,89.97,90.05,90.26,non_ballot_elec
+2020-10-31,Western,Alaska,906,90.95,93.71,98.79,99.45,non_ballot_elec
+2020-10-31,Western,Arizona,1414,88.61,90.24,90.38,90.74,non_ballot_elec
+2020-10-31,Western,Central Plains,1069,90.36,91.86,91.86,92.8,non_ballot_elec
+2020-10-31,Western,Colorado/Wyoming,2949,8.34,11.7,71.58,81.15,non_ballot_elec
+2020-10-31,Western,Dakotas,871,77.61,89.55,89.55,91.85,non_ballot_elec
+2020-10-31,Western,Hawkeye,1817,76.22,95.76,95.76,95.76,non_ballot_elec
+2020-10-31,Western,Mid-Americas,1941,89.64,91.55,91.55,91.55,non_ballot_elec
+2020-10-31,Western,Nevada Sierra,805,95.53,97.27,97.76,98.26,non_ballot_elec
+2020-10-31,Western,Northland,11949,79.25,94.48,95.66,96.78,non_ballot_elec
+2020-10-31,Western,Portland,1526,84.8,85.85,86.11,86.24,non_ballot_elec
+2020-10-31,Western,Salt Lake City,175,76.57,92,92,94.86,non_ballot_elec
+2020-10-31,Western,Seattle,630,77.46,94.13,95.56,95.71,non_ballot_elec
+2020-11-02,Metro,Atlanta,3037,51.73,77.71,85.68,86.5,non_ballot_elec
+2020-11-02,Metro,Baltimore,1319,28.2,57.54,95.22,95.3,non_ballot_elec
+2020-11-02,Metro,Capital,713,95.23,96.91,98.32,98.32,non_ballot_elec
+2020-11-02,Metro,Greater S Carolina,2467,58.41,87.72,93.43,93.51,non_ballot_elec
+2020-11-02,Metro,Greensboro,28091,88.06,98.22,98.51,98.82,non_ballot_elec
+2020-11-02,Metro,Mid-Carolinas,10609,91.04,95.32,96.68,97.29,non_ballot_elec
+2020-11-02,Metro,Norther Virginia,669,94.32,96.11,97.16,97.16,non_ballot_elec
+2020-11-02,Metro,Richmond,1370,77.52,95.4,99.34,99.42,non_ballot_elec
+2020-11-02,Eastern,Appalachian,1008,86.81,93.95,98.51,98.51,non_ballot_elec
+2020-11-02,Eastern,Central Pennsylvania,3091,41.7,86.77,94.79,94.86,non_ballot_elec
+2020-11-02,Eastern,Kentuckiana,717,68.06,70.99,72.11,73.08,non_ballot_elec
+2020-11-02,Eastern,Norther Ohio,3500,42.8,57.69,64.26,64.4,non_ballot_elec
+2020-11-02,Eastern,Ohio Valley,335,74.93,88.36,88.96,88.96,non_ballot_elec
+2020-11-02,Eastern,Philadelphia Metropo,3522,47.7,73.68,78.59,78.65,non_ballot_elec
+2020-11-02,Eastern,South Jersey,3051,56.7,74.24,74.6,74.6,non_ballot_elec
+2020-11-02,Eastern,Tennessee,1427,83.32,94.67,95.73,97.13,non_ballot_elec
+2020-11-02,Eastern,Western New York,385,78.96,78.96,78.96,78.96,non_ballot_elec
+2020-11-02,Eastern,Western Pennsylvania,1237,97.66,98.63,99.19,99.19,non_ballot_elec
+2020-11-02,Great Lakes,Central Illinois,1123,27.6,31.17,31.7,31.7,non_ballot_elec
+2020-11-02,Great Lakes,Chicago,31454,99.41,99.72,99.73,99.74,non_ballot_elec
+2020-11-02,Great Lakes,Detroit,4388,55.49,72.04,89.74,94.69,non_ballot_elec
+2020-11-02,Great Lakes,Gateway,439,72.89,76.77,77.68,78.13,non_ballot_elec
+2020-11-02,Great Lakes,Greater Indiana,91616,72.22,93.98,99.06,99.1,non_ballot_elec
+2020-11-02,Great Lakes,Greater Michigan,1573,55.18,87.67,97.27,97.27,non_ballot_elec
+2020-11-02,Great Lakes,Lakeland,6327,24.01,47.04,47.8,83.85,non_ballot_elec
+2020-11-02,Northeast,Albany,313,92.97,92.97,93.93,93.93,non_ballot_elec
+2020-11-02,Northeast,Caribbean,95,96.84,96.84,100,100,non_ballot_elec
+2020-11-02,Northeast,Connecticut Valley,1736,94.76,96.43,97.93,97.98,non_ballot_elec
+2020-11-02,Northeast,Greater Boston,1908,81.92,84.22,97.48,97.64,non_ballot_elec
+2020-11-02,Northeast,Long Island,446,87.89,95.07,97.98,97.98,non_ballot_elec
+2020-11-02,Northeast,New York,587,88.25,91.65,97.61,97.61,non_ballot_elec
+2020-11-02,Northeast,Northern New England,2446,64.76,93.13,99.39,99.39,non_ballot_elec
+2020-11-02,Northeast,Northern New Jersey,4568,98.56,99.17,99.52,99.54,non_ballot_elec
+2020-11-02,Northeast,Triboro,533,90.24,91.74,96.25,96.25,non_ballot_elec
+2020-11-02,Northeast,Westchester,275,93.45,95.64,96.73,96.73,non_ballot_elec
+2020-11-02,Pacific,Bay-Valley,1296,99.15,99.23,99.23,99.31,non_ballot_elec
+2020-11-02,Pacific,Honolulu,505,95.84,96.63,97.62,97.62,non_ballot_elec
+2020-11-02,Pacific,Los Angeles,4441,29.99,30.29,44.72,44.79,non_ballot_elec
+2020-11-02,Pacific,Sacramento,23215,99.07,99.24,99.26,99.3,non_ballot_elec
+2020-11-02,Pacific,San Diego,21143,99.75,99.83,99.88,99.89,non_ballot_elec
+2020-11-02,Pacific,San Francisco,16198,97.6,98.03,98.29,99.57,non_ballot_elec
+2020-11-02,Pacific,Santa Ana,30064,99.63,99.69,99.79,99.81,non_ballot_elec
+2020-11-02,Pacific,Sierra Coastal,1510,93.31,93.77,94.24,94.44,non_ballot_elec
+2020-11-02,Southern,Alabama,1268,48.5,98.66,99.29,99.29,non_ballot_elec
+2020-11-02,Southern,Arkansas,619,95.15,98.06,98.06,98.06,non_ballot_elec
+2020-11-02,Southern,Dallas,2100,38.76,94.71,95.52,95.52,non_ballot_elec
+2020-11-02,Southern,Ft. Worth,1087,71.94,97.88,99.17,99.17,non_ballot_elec
+2020-11-02,Southern,Gulf Atlantic,3118,54.43,92.85,96.63,97.69,non_ballot_elec
+2020-11-02,Southern,Houston,2819,40.97,87.51,99.68,99.72,non_ballot_elec
+2020-11-02,Southern,Louisiana,1672,66.27,90.07,92.88,92.94,non_ballot_elec
+2020-11-02,Southern,Mississippi,601,90.02,95.51,95.84,95.84,non_ballot_elec
+2020-11-02,Southern,Oklahoma,1095,84.66,97.81,98.17,98.17,non_ballot_elec
+2020-11-02,Southern,Rio Grande,2364,92.98,95.69,96.11,96.11,non_ballot_elec
+2020-11-02,Southern,South Florida,10701,69.85,92.03,98.72,98.98,non_ballot_elec
+2020-11-02,Southern,Suncoast,34304,96.11,98.11,98.23,98.28,non_ballot_elec
+2020-11-02,Western,Alaska,2467,2.84,9.16,97.61,99.96,non_ballot_elec
+2020-11-02,Western,Arizona,2136,90.26,93.02,94.52,94.62,non_ballot_elec
+2020-11-02,Western,Central Plains,1606,97.76,98.75,99.13,99.13,non_ballot_elec
+2020-11-02,Western,Colorado/Wyoming,3152,43.02,67.54,86.36,92.07,non_ballot_elec
+2020-11-02,Western,Dakotas,2694,94.88,95.43,95.99,95.99,non_ballot_elec
+2020-11-02,Western,Hawkeye,1094,71.57,73.86,77.33,77.33,non_ballot_elec
+2020-11-02,Western,Mid-Americas,1130,91.24,94.07,94.96,94.96,non_ballot_elec
+2020-11-02,Western,Nevada Sierra,749,80.91,97.33,97.6,98.13,non_ballot_elec
+2020-11-02,Western,Northland,18449,83.47,93.73,98.44,98.47,non_ballot_elec
+2020-11-02,Western,Portland,3612,69.24,69.52,69.6,72.48,non_ballot_elec
+2020-11-02,Western,Salt Lake City,1846,66.41,67.01,67.17,67.17,non_ballot_elec
+2020-11-02,Western,Seattle,1334,85.68,90.1,91.83,98.58,non_ballot_elec
+2020-11-03,Metro,Atlanta,955,16.13,92.46,97.49,100,non_ballot_elec
+2020-11-03,Metro,Baltimore,1769,1.81,50.48,96.55,100,non_ballot_elec
+2020-11-03,Metro,Capital,1061,1.89,99.72,100,100,non_ballot_elec
+2020-11-03,Metro,Greater S Carolina,765,13.2,88.63,94.51,99.87,non_ballot_elec
+2020-11-03,Metro,Greensboro,8607,69.98,92.13,99.38,99.44,non_ballot_elec
+2020-11-03,Metro,Mid-Carolinas,4304,90.01,98.54,99.65,99.79,non_ballot_elec
+2020-11-03,Metro,Norther Virginia,44,70.45,100,100,100,non_ballot_elec
+2020-11-03,Metro,Richmond,575,10.09,15.3,15.65,100,non_ballot_elec
+2020-11-03,Eastern,Appalachian,520,3.46,95.38,99.81,99.81,non_ballot_elec
+2020-11-03,Eastern,Central Pennsylvania,786,2.67,68.07,92.75,99.87,non_ballot_elec
+2020-11-03,Eastern,Kentuckiana,118,43.22,92.37,99.15,99.15,non_ballot_elec
+2020-11-03,Eastern,Norther Ohio,1024,3.13,89.75,96.48,99.51,non_ballot_elec
+2020-11-03,Eastern,Ohio Valley,198,24.75,93.94,96.46,98.99,non_ballot_elec
+2020-11-03,Eastern,Metropo,1082,2.77,98.71,99.63,100,non_ballot_elec
+2020-11-03,Eastern,South Jersey,565,3.19,92.21,99.65,100,non_ballot_elec
+2020-11-03,Eastern,Tennessee,220,81.36,95.91,98.18,98.64,non_ballot_elec
+2020-11-03,Eastern,Western New York,210,6.19,99.52,99.52,99.52,non_ballot_elec
+2020-11-03,Eastern,Western Pennsylvania,74,39.19,83.78,97.3,100,non_ballot_elec
+2020-11-03,Great Lakes,Central Illinois,177,29.38,97.74,99.44,99.44,non_ballot_elec
+2020-11-03,Great Lakes,Chicago,844,99.17,99.88,100,100,non_ballot_elec
+2020-11-03,Great Lakes,Detroit,1364,2.27,82.04,87.1,93.91,non_ballot_elec
+2020-11-03,Great Lakes,Gateway,1463,80.79,99.32,99.86,100,non_ballot_elec
+2020-11-03,Great Lakes,Greater Indiana,34894,11.31,91.3,96.62,99.93,non_ballot_elec
+2020-11-03,Great Lakes,Greater Michigan,387,5.94,96.64,98.19,98.97,non_ballot_elec
+2020-11-03,Great Lakes,Lakeland,159,46.54,56.6,58.49,58.49,non_ballot_elec
+2020-11-03,Northeast,Albany,151,13.25,99.34,99.34,100,non_ballot_elec
+2020-11-03,Northeast,Caribbean,17,23.53,100,100,100,non_ballot_elec
+2020-11-03,Northeast,Connecticut Valley,76,68.42,98.68,98.68,100,non_ballot_elec
+2020-11-03,Northeast,Greater Boston,376,21.01,99.2,99.47,99.47,non_ballot_elec
+2020-11-03,Northeast,Long Island,36,27.78,91.67,97.22,100,non_ballot_elec
+2020-11-03,Northeast,New York,35,100,100,100,100,non_ballot_elec
+2020-11-03,Northeast,Northern New England,356,17.13,99.44,99.44,99.72,non_ballot_elec
+2020-11-03,Northeast,Northern New Jersey,42,71.43,95.24,97.62,100,non_ballot_elec
+2020-11-03,Northeast,Triboro,50,74,92,92,100,non_ballot_elec
+2020-11-03,Northeast,Westchester,25,76,92,96,96,non_ballot_elec
+2020-11-03,Pacific,Bay-Valley,273,23.08,99.27,99.27,99.27,non_ballot_elec
+2020-11-03,Pacific,Honolulu,172,75,100,100,100,non_ballot_elec
+2020-11-03,Pacific,Los Angeles,375,12.53,71.2,71.47,100,non_ballot_elec
+2020-11-03,Pacific,Sacramento,1489,9.54,99.73,100,100,non_ballot_elec
+2020-11-03,Pacific,San Diego,1635,25.75,99.88,99.94,100,non_ballot_elec
+2020-11-03,Pacific,San Francisco,1807,97.57,98.45,99,99.45,non_ballot_elec
+2020-11-03,Pacific,Santa Ana,4637,70.02,99.98,100,100,non_ballot_elec
+2020-11-03,Pacific,Sierra Coastal,1221,2.78,99.84,99.84,100,non_ballot_elec
+2020-11-03,Southern,Alabama,1000,5.8,98.9,99.6,100,non_ballot_elec
+2020-11-03,Southern,Arkansas,62,77.42,100,100,100,non_ballot_elec
+2020-11-03,Southern,Dallas,1296,14.66,97.69,97.76,100,non_ballot_elec
+2020-11-03,Southern,Ft. Worth,550,18.18,94.18,100,100,non_ballot_elec
+2020-11-03,Southern,Gulf Atlantic,1834,5.07,98.69,99.24,99.67,non_ballot_elec
+2020-11-03,Southern,Houston,1208,7.45,97.1,99.42,100,non_ballot_elec
+2020-11-03,Southern,Louisiana,700,3.29,51.86,53.14,100,non_ballot_elec
+2020-11-03,Southern,Mississippi,163,11.04,98.77,99.39,100,non_ballot_elec
+2020-11-03,Southern,Oklahoma,102,76.47,95.1,99.02,99.02,non_ballot_elec
+2020-11-03,Southern,Rio Grande,908,22.36,98.35,99.67,100,non_ballot_elec
+2020-11-03,Southern,South Florida,11191,0.36,97.76,99.59,99.98,non_ballot_elec
+2020-11-03,Southern,Suncoast,423,55.79,98.35,99.53,100,non_ballot_elec
+2020-11-03,Western,Alaska,128,39.06,57.81,67.19,93.75,non_ballot_elec
+2020-11-03,Western,Arizona,897,44.82,99.33,99.78,100,non_ballot_elec
+2020-11-03,Western,Central Plains,56,69.64,100,100,100,non_ballot_elec
+2020-11-03,Western,Colorado/Wyoming,5309,83.56,97.83,99.3,99.66,non_ballot_elec
+2020-11-03,Western,Dakotas,598,17.56,99.5,99.83,99.83,non_ballot_elec
+2020-11-03,Western,Hawkeye,453,3.75,99.34,99.78,99.78,non_ballot_elec
+2020-11-03,Western,Mid-Americas,310,17.74,96.45,98.71,100,non_ballot_elec
+2020-11-03,Western,Nevada Sierra,272,75,100,100,100,non_ballot_elec
+2020-11-03,Western,Northland,10123,83.97,99.08,99.67,99.89,non_ballot_elec
+2020-11-03,Western,Portland,1056,58.14,100,100,100,non_ballot_elec
+2020-11-03,Western,Salt Lake City,1278,21.52,71.67,71.67,71.83,non_ballot_elec
+2020-11-03,Western,Seattle,775,27.48,99.74,99.87,100,non_ballot_elec
