@@ -53,7 +53,7 @@ debt by race.
 D_cred_naics_f %>% filter(naics_man_def=="mortgage", race_pred%in%c("white","black")) %>% ggplot(aes(x = amount_owed, fill= inc_level))+geom_density(alpha = .5)+bbc_style()
 ```
 
-![](./ga_debts_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](https://github.com/nthieme/AJC_work/blob/master/ga_debts_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ``` r
 D_cred_naics_f %>% filter(naics_man_def=="student_loans", race_pred%in%c("white","black")) %>% ggplot(aes(x = amount_owed, fill= race_pred))+geom_density(alpha = .5)+bbc_style()
