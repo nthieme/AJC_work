@@ -61,7 +61,7 @@ D_cred_naics_f %>% filter(naics_man_def=="student_loans", race_pred%in%c("white"
 
     ## Warning: Removed 15 rows containing non-finite values (stat_density).
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-1-2.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-1-2.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 D_cred_naics_f %>% filter(naics_man_def=="auto", race_pred%in%c("white","black")) %>% ggplot(aes(x = amount_owed, fill= race_pred))+geom_density(alpha = .5)+bbc_style()
@@ -69,7 +69,7 @@ D_cred_naics_f %>% filter(naics_man_def=="auto", race_pred%in%c("white","black")
 
     ## Warning: Removed 15 rows containing non-finite values (stat_density).
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-1-3.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-1-3.png?sanitize=true&raw=true`)<!-- -->
 
 We can clearly see that each wealth quartile owes significantly more
 mortgage debt than the previous quartile. This is easily understood as
@@ -587,7 +587,7 @@ D_perc_tot %>% filter(naics_man_def!="Warehouses-Mini & Self Storage") %>%
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1))
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-3-1.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 D_perc_tot %>% mutate(m_sum= med_perc*n_filers) %>% group_by(race_pred, naics_man_def) %>% summarise(n_fil = sum(n_filers), m_perc = sum(m_sum)/n_fil) %>% filter(naics_man_def=="studentloan")
@@ -911,14 +911,14 @@ X_plot %>% ggplot(aes(x = fitted, y = residuals, col = perc))+
   geom_point(size = .1, alpha = .4)+labs(title = "Dirich Errors")
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-4-1.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 X_plot_i %>% ggplot(aes(x = fitted, y = residuals, col = perc))+
   geom_point(size = .1, alpha = .4)+labs(title = str_c("Dirich Errors for ", colnames(bk_perc_dir)[i]))
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-4-2.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
   #race_pred+inc_level+case_chapter+wage+rent+child+food+exp+total_owed
@@ -1041,7 +1041,7 @@ to_rm <- which(y_comp[,i+1]==0)
 plot(predict(mylm)[-to_rm,i],resid(mylm)[-to_rm,i])
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-5-1.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 summary(mylm)[[i]]
@@ -1083,7 +1083,7 @@ to_rm <- which(y_comp[,i+1]==0)
 plot(predict(mylm)[-to_rm,i],resid(mylm)[-to_rm,i])
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-5-2.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 summary(mylm)[[i]]
@@ -1155,14 +1155,14 @@ mod_gam_sl<-glm(y_sl~race_pred+inc_level+case_chapter+race_pred*inc_level+rent+c
 distplot(D_dir_mod_f_2%>% filter(student_loans>0) %>% pull(y_sl), type="poisson")
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-1.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 par(mfrow=c(2,2))
 plot(mod_gam_sl)
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-2.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-2.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 summary(mod_gam_sl)
@@ -1208,7 +1208,7 @@ effects_sl_no_z<-allEffects(mod_gam_sl)
 plot(effects_sl_no_z$`race_pred:inc_level`)
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-3.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-3.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 mod_gam_sl_z<-glm(sl_zer~race_pred+inc_level+case_chapter+race_pred*inc_level+rent+child+food+exp+total_owed,family = "binomial", data = D_dir_mod_f_2)
@@ -1256,7 +1256,7 @@ effects_sl_z <- allEffects(mod_gam_sl_z)
 plot(effects_sl_z$`race_pred:inc_level`)
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-4.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-4.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 mod_gam_auto_no_z<-glm(y_au~race_pred+inc_level+case_chapter+race_pred*inc_level+rent+child+food+exp+total_owed,family = "quasipoisson", data = D_dir_mod_f_2 %>% filter(auto>0))
@@ -1264,14 +1264,14 @@ mod_gam_auto_no_z<-glm(y_au~race_pred+inc_level+case_chapter+race_pred*inc_level
 distplot(D_dir_mod_f_2%>% filter(student_loans>0) %>% pull(y_au), type="poisson")
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-5.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-5.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 par(mfrow=c(2,2))
 plot(mod_gam_auto_no_z)
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-6.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-6.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 summary(mod_gam_auto_no_z)
@@ -1317,7 +1317,7 @@ effects_au_no_z<-allEffects(mod_gam_auto_no_z)
 plot(effects_au_no_z$`race_pred:inc_level`)
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-7.png)<!-- -->
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-7.png?sanitize=true&raw=true`)<!-- -->
 
 ``` r
 mod_gam_auto_z<-glm(au_zer~race_pred+inc_level+case_chapter+race_pred*inc_level+rent+child+food+exp+total_owed,family = "binomial", data = D_dir_mod_f_2%>%  mutate(au_zer = sign(auto)) )
@@ -1365,7 +1365,7 @@ effects_au_z <- allEffects(mod_gam_auto_z)
 plot(effects_au_z$`race_pred:inc_level`)
 ```
 
-![](ga_debts_files/figure-gfm/unnamed-chunk-6-8.png)<!-- --> The
+![](https://raw.githubusercontent.com/nthieme/AJC_work/master/ga_debts_files/figure-gfm/unnamed-chunk-6-8.png?sanitize=true&raw=true`)<!-- --> The
 majority of the output above is diagnostic and demonstrates much better
 fit that the Dirichlet regression. Fitting GAM’s with smooth terms in
 the same families as the GLM’s above improves the fit somewhat (both in
