@@ -378,7 +378,7 @@ an example.
 p<-periodogram(D_north_I_daily$n)
 ```
 
-![](daily_bk_trend_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](./daily_bk_trend_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ``` r
 dd = data.frame(freq=p$freq, spec=p$spec)
